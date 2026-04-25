@@ -12266,9 +12266,9 @@ hash = "5136c7bba0e4472631585e60a665e4729b00f0f3343f92231be8fa46c1c64664"
 metafile = true
 
 [[files]]
-file = "mods/crystalix-3-0-0.pw.toml"
-hash = "54e35ad1481ff4b73971af0ebfa344cde3f4cee8585e7f54d10e4d3be0442216"
-metafile = true
+file = "mods/crystalix-3.0.0.jar"
+hash = "42f97cf776cff8261bf671e64a333bbec65a8bf28e519d39cd958e0af9848e6c"
+metafile = false
 
 [[files]]
 file = "mods/CTM-1.21-1.2.1+3.jar"
