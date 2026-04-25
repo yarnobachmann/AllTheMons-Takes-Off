@@ -8,6 +8,6 @@
   "loader": "neoforge",
   "loaderVersion": "21.1.227",
   "memoryMb": 8192,
-  "iconFile": "",
+  "iconFile": "Modpackimage.png",
   "iconKey": "all-the-mons-takes-off"
 }

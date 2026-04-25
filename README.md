@@ -22,6 +22,7 @@ https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/pack.t
 - Loader: `NeoForge`
 - NeoForge: `21.1.227`
 - Recommended memory: `8192 MB`
+- Icon: `Modpackimage.png`
 
 ## GitHub Pages optional
 
