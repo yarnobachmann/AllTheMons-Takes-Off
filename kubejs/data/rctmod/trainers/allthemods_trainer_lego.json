@@ -1,0 +1,179 @@
+{
+  "name": "Lego",
+  "identity": "Lego",
+  "ai": {
+    "type": "rct",
+    "data": {
+      "maxSelectMargin": 0.15
+    }
+  },
+  "battleRules": {
+    "maxItemUses": 2
+  },
+  "bag": [
+    {
+      "item": "cobblemon:full_restore",
+      "quantity": 2
+    }
+  ],
+  "team": [
+    {
+      "species": "infernape",
+      "gender": "MALE",
+      "level": 84,
+      "nature": "naughty",
+      "ability": "blaze",
+      "moveset": [
+        "closecombat",
+        "flamethrower",
+        "acrobatics",
+        "rockslide"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "garchomp",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "bold",
+      "ability": "roughskin",
+      "moveset": [
+        "outrage",
+        "earthquake",
+        "dragonclaw",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 25,
+        "atk": 25,
+        "def": 25,
+        "spa": 25,
+        "spd": 25,
+        "spe": 25
+      },
+      "evs": {}
+    },
+    {
+      "species": "togekiss",
+      "gender": "FEMALE",
+      "level": 85,
+      "nature": "timid",
+      "ability": "superluck",
+      "moveset": [
+        "nastyplot",
+        "airslash",
+        "fireblast",
+        "aurasphere"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 6,
+        "spa": 252,
+        "spe": 252
+      },
+      "heldItem": [
+        "focus_sash"
+      ]
+    },
+    {
+      "species": "tinkaton",
+      "gender": "FEMALE",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "owntempo",
+      "moveset": [
+        "gigatonhammer",
+        "playrough",
+        "skittersmack",
+        "stoneedge"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "hp": 252,
+        "atk": 252
+      },
+      "heldItem": [
+        "sitrus_berry"
+      ]
+    },
+        {
+      "species": "toxtricity",
+      "gender": "MALE",
+      "level": 86,
+      "nature": "jolly",
+      "ability": "swarm",
+      "moveset": [
+        "boomburst",
+        "thunderbolt",
+        "sludgebomb",
+        "thunderwave"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "safety_goggles"
+      ]
+    },
+    {
+      "species": "baxcalibur",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "icebody",
+      "moveset": [
+        "crunch",
+        "iciclecrash",
+        "outrage",
+        "earthquake"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spa": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 4,
+        "spe": 252
+      },
+      "heldItem": [
+        "silver_powder"
+      ]
+    }
+  ]
+}
