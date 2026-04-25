@@ -1,0 +1,12 @@
+name = "Simple Weather 1.0.13-hotfix"
+filename = "simple_weather-1.0.13-hotfix.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fOi7wEuS/versions/NZo3g6YK/simple_weather-1.0.13-hotfix.jar"
+hash-format = "sha512"
+hash = "9c7d4480e442398dbf3642b819533491d987f9e1a1baf1427c9b04e224c4cc30eae82632881e5d4b3a56b13f98d2b3b9e5007c88c0c995a11c3f27f38099f5a2"
+
+[update.modrinth]
+mod-id = "fOi7wEuS"
+version = "NZo3g6YK"

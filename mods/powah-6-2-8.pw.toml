@@ -1,0 +1,12 @@
+name = "[NEOFORGE 1.21.1] v6.2.8"
+filename = "Powah-6.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/KZO4S4DO/versions/y2Y1fHd2/Powah-6.2.8.jar"
+hash-format = "sha512"
+hash = "66681e28b9e3f8b491bd10bf634af5372465fd851d404f9bf05ef1f26772cc8b3fcfb502ae29673ae6ca9059dfdbf70afb2ffe938d7ef5e29cd65cdc3d91c53b"
+
+[update.modrinth]
+mod-id = "KZO4S4DO"
+version = "y2Y1fHd2"

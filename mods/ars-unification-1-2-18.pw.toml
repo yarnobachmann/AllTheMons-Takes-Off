@@ -1,0 +1,12 @@
+name = "Ars Unification 1.2.18 for 1.21.1"
+filename = "ars_unification-1.2.18.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fRdwEsp6/versions/kpJzIWJr/ars_unification-1.2.18.jar"
+hash-format = "sha512"
+hash = "0ceee8e0bf30c8cce99df1ae767a6696c1839500eaed70f132d62aeea1cefdbfb7e59a024bf053834f1d3eab368dfbb289093982fac1eccf2eef1211693bf4f6"
+
+[update.modrinth]
+mod-id = "fRdwEsp6"
+version = "kpJzIWJr"

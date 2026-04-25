@@ -1,0 +1,12 @@
+name = "DimStorage-1.21.1-9.1.1"
+filename = "DimStorage-1.21.1-9.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8lnmIJH7/versions/R7rQFgQh/DimStorage-1.21.1-9.1.1.jar"
+hash-format = "sha512"
+hash = "b15b3e7ef7f0d5814d899ee7b9e87b4abf5add8039ad623ae97d77ad29de31dfe6407637c95b5c50b75c9a5698bbd193da45ece34bfabed7a7fa1c9069dae78f"
+
+[update.modrinth]
+mod-id = "8lnmIJH7"
+version = "R7rQFgQh"

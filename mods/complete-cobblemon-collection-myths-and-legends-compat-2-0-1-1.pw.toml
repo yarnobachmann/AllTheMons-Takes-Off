@@ -1,0 +1,12 @@
+name = "Complete Cobblemon Collection 2.0.1"
+filename = "complete-cobblemon-collection-myths-and-legends-compat-2.0.1 (1).jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qoL4kNxC/versions/OBxD00j9/complete-cobblemon-collection-myths-and-legends-compat-2.0.1.jar"
+hash-format = "sha512"
+hash = "6439b6bc946c98afad0a4eb77f56f709a1d2ad66534162749d134cf7ea4c0ba0680df333d41a645847a5d6e0d0d2645f6b6499f3bab2ae0e30d36a24b5f058b4"
+
+[update.modrinth]
+mod-id = "qoL4kNxC"
+version = "OBxD00j9"

@@ -1,0 +1,12 @@
+name = "Wild Battle API 1.1.2"
+filename = "wild_battle_api-neoforge-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v7VZE8kh/versions/yqDEblb0/wild_battle_api-neoforge-1.1.2.jar"
+hash-format = "sha512"
+hash = "19d00f9d56e1a985e63cb6c47db8042fbd777bc74e8a31a4612523cf41e2a24d0b49f6cb93020c1bcb680ee98ad646949e3441ce96c7801390e236a4a61ad708"
+
+[update.modrinth]
+mod-id = "v7VZE8kh"
+version = "yqDEblb0"

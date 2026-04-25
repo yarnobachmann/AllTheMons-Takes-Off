@@ -1,0 +1,12 @@
+name = "\"Modular Routers\" 13.2.4 MC-1.21.1"
+filename = "modular-routers-13.2.4+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EuTS81Z3/versions/KxhrugR1/modular-routers-13.2.4%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "afb4e31fc314c6429082ac990ca3f0b818fc49d601448084831776ae95d5391a77bd5fcfb1ef6204e5622c8f8fb570e325d804af20ce0b73620ab9d75c3933da"
+
+[update.modrinth]
+mod-id = "EuTS81Z3"
+version = "KxhrugR1"

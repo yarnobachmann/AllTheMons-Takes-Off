@@ -1,0 +1,12 @@
+name = "Mekanism:MoreMachine 1.21.1-1.3.1"
+filename = "mekmm-1.21.1-1.3.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qDJXZJTz/versions/WMn1qIKP/mekmm-1.21.1-1.3.1.jar"
+hash-format = "sha512"
+hash = "91f2fbf021b5ab129b605a3fb87cad5324428351d3b20ee3daca6b031493758fd6b23bc8fd1e8c973e0c88dfb30e92137c004782cbfe16c8e8e68004f8a4fd4a"
+
+[update.modrinth]
+mod-id = "qDJXZJTz"
+version = "WMn1qIKP"

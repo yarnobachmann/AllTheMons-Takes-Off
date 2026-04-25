@@ -1,0 +1,12 @@
+name = "Hey Berry! SHUT UP 1.21.0-2.0.4"
+filename = "heyberryshutup-1.21.0-2.0.4.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/EQGqfQ69/versions/X0UyfG27/heyberryshutup-1.21.0-2.0.4.jar"
+hash-format = "sha512"
+hash = "08f14679789f385f254d7835033ce1acd9c1e054e28a72879151f0e2a30d6cd121c5d3ba33d82d69727b87deb23ffab08da70077b21ad466eba68281dce81892"
+
+[update.modrinth]
+mod-id = "EQGqfQ69"
+version = "X0UyfG27"

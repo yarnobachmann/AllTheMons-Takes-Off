@@ -1,0 +1,12 @@
+name = "Luminax 1.3.1"
+filename = "luminax-1.3.1_neoforge_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/v8pgbyzm/versions/4GevHoQn/luminax-1.3.1_neoforge_1.21.1.jar"
+hash-format = "sha512"
+hash = "310aa50a96c3fbee0d16f8bfdc0ac8b4d9bc0b4b4912518f5e34c11884abd305ebfc062c53cc6e5380b9a357791bf1ad9ce7b24259e0e13e5453021698a81203"
+
+[update.modrinth]
+mod-id = "v8pgbyzm"
+version = "4GevHoQn"

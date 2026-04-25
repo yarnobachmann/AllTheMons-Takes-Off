@@ -1,0 +1,12 @@
+name = "6.0.0"
+filename = "novillagerdm-1.21.1-6.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/NEipHNYm/versions/aL4vZ1jM/novillagerdm-1.21.1-6.0.0.jar"
+hash-format = "sha512"
+hash = "9f1ef027cbc6d7f173c1209dc0efdf664e405b112e73558fe16db97e14a1470b0815288651bed881ba4b8bc54cff07d9d0456f096d5725cf5113b0ee4039c6f8"
+
+[update.modrinth]
+mod-id = "NEipHNYm"
+version = "aL4vZ1jM"

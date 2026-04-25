@@ -1,0 +1,13 @@
+{
+  "githubUsername": "yarnobachmann",
+  "repoName": "AllTheMons-Takes-Off",
+  "pagesRoot": "root",
+  "packUrl": "https://yarnobachmann.github.io/AllTheMons-Takes-Off/pack.toml",
+  "instanceName": "All The Mons Takes Off",
+  "minecraftVersion": "1.21.1",
+  "loader": "neoforge",
+  "loaderVersion": "21.1.227",
+  "memoryMb": 8192,
+  "iconFile": "",
+  "iconKey": "all-the-mons-takes-off"
+}

@@ -1,0 +1,12 @@
+name = "mega_showdown 1.7.3+1.7.3+1.21.1"
+filename = "mega_showdown-neoforge-1.7.3+1.7.3+1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SszvX85I/versions/4qtY9Hjl/mega_showdown-neoforge-1.7.3%2B1.7.3%2B1.21.1.jar"
+hash-format = "sha512"
+hash = "a9bdfa0e3ceba62489812f15ed75c75197e9ba55524b70c6c1b0fd8d791792542c3dc8794afa5745289401637be372677bd162dcff0daad14f93af34708fd3a9"
+
+[update.modrinth]
+mod-id = "SszvX85I"
+version = "4qtY9Hjl"

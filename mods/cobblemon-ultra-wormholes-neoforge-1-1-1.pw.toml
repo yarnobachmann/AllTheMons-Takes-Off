@@ -1,0 +1,12 @@
+name = "Cobblemon Ultra Wormholes 1.1.1-NeoForge"
+filename = "cobblemon_ultra_wormholes-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/65VFUCys/versions/VYMMfLSC/cobblemon_ultra_wormholes-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "71050b5d99ac503d7596a320eab54e7abd6e5d1bb55b767de470616d7761f83b27a07af825409e5697e09f2cc9292e770f0539a9033a564102dda18917f8855b"
+
+[update.modrinth]
+mod-id = "65VFUCys"
+version = "VYMMfLSC"

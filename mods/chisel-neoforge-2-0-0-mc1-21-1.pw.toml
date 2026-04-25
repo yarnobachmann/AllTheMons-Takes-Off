@@ -1,0 +1,12 @@
+name = "[1.21.1] NeoForge 2.0.0"
+filename = "chisel-neoforge-2.0.0+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/4KWv7wbN/versions/uBrND6yn/chisel-neoforge-2.0.0%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "ad489ad016ec6cadc68c3fd5a7313c5919eb9f2b4d59b76a2036ac90cf19d0236eb670182ca23937bc01f14c732c7b846b7d38b66394168f514e40d3c7c4d65d"
+
+[update.modrinth]
+mod-id = "4KWv7wbN"
+version = "uBrND6yn"

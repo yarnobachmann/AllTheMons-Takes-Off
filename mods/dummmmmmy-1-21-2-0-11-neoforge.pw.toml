@@ -1,0 +1,12 @@
+name = "1.21-2.0.11-neoforge"
+filename = "dummmmmmy-1.21-2.0.11-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Adega8YN/versions/l7knRSW7/dummmmmmy-1.21-2.0.11-neoforge.jar"
+hash-format = "sha512"
+hash = "f40b29690a17ec9dfc71bf382c3cd12f943f2710b3db40f55237f5f33924e98cde91bb956ab380a6239e32d8ab4f7ad07e54e98a5eaf324dcc2d70be24d512fb"
+
+[update.modrinth]
+mod-id = "Adega8YN"
+version = "l7knRSW7"

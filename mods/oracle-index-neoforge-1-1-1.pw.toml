@@ -1,0 +1,12 @@
+name = "neoforge 1.1.1"
+filename = "oracle_index-neoforge-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J8MMsNrL/versions/oLlcvBIs/oracle_index-neoforge-1.1.1.jar"
+hash-format = "sha512"
+hash = "bcaf851dd9f8c9e85a2b7bbb659e6a662ef6db1eca79ccbf6fb95e9601614727377d0cc4734eb7c4caacdf22dca73fb4f2ea2fdf4d68a2d47cd45dcbfb9974f4"
+
+[update.modrinth]
+mod-id = "J8MMsNrL"
+version = "oLlcvBIs"

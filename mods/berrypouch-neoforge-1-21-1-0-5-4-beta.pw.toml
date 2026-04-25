@@ -1,0 +1,12 @@
+name = "berrypouch-fabric-1.21.1-0.5.4-beta"
+filename = "berrypouch-neoforge-1.21.1-0.5.4-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/y7TzXi4L/versions/f04yiMTV/berrypouch-neoforge-1.21.1-0.5.4-beta.jar"
+hash-format = "sha512"
+hash = "5331c18fb7a3d97ad3120c716ba333948edac1f942e880996f8dfb3939539eb35d5f7448ec8f3989d54b39d856ba802bb6d7754663afa05a25de8d27ad209458"
+
+[update.modrinth]
+mod-id = "y7TzXi4L"
+version = "f04yiMTV"

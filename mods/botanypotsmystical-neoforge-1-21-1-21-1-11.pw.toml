@@ -1,0 +1,12 @@
+name = "BotanyPots-Mystical-neoforge-1.21.1-21.1.11"
+filename = "botanypotsmystical-neoforge-1.21.1-21.1.11.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/SaWFztxY/versions/AkDXnwyH/botanypotsmystical-neoforge-1.21.1-21.1.11.jar"
+hash-format = "sha512"
+hash = "6a9f4cb2c32d3e2577b5977d8c13f96efebf83bdab1d0d49bebb3ad97eac923cae8670ff972789f24bfc4dd5c429f2b99df13e4143c3dc1437a18582bc5de6fe"
+
+[update.modrinth]
+mod-id = "SaWFztxY"
+version = "AkDXnwyH"

@@ -1,0 +1,12 @@
+name = "Cobblemon: Extra Structures 1.21.1-1.2.1 Neoforge"
+filename = "cobblemonextrastructures-1.21.1-1.2.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/IkJ2gbjT/versions/g7RkIjmH/cobblemonextrastructures-1.21.1-1.2.1-neoforge.jar"
+hash-format = "sha512"
+hash = "12fce1f80a71463463d23db2dbc44f627a0711f94149bd981399a5cd626d747d54524df680f2f1cdd3b5824c1f3fd923b47c3f5a2cb95c271f6652975e491bbc"
+
+[update.modrinth]
+mod-id = "IkJ2gbjT"
+version = "g7RkIjmH"

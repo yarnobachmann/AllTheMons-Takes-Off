@@ -1,0 +1,12 @@
+name = "AE2 Import Export Card 1.21.1-1.4.3"
+filename = "ae2importexportcard-1.21.1-1.4.3.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/qelfSMnn/versions/ecKTdHTd/ae2importexportcard-1.21.1-1.4.3.jar"
+hash-format = "sha512"
+hash = "140858a66bc55bbae6fdf28b0ca0c96305d1b2da5cdf1e592b1dd558245fa42bf17771f640d876a782bdbcff34451749a291c45ab0463af1227dd6ba553ef4d1"
+
+[update.modrinth]
+mod-id = "qelfSMnn"
+version = "ecKTdHTd"

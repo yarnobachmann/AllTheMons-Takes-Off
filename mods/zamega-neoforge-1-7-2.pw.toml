@@ -1,0 +1,12 @@
+name = "zamega 1.7.2"
+filename = "zamega-neoforge-1.7.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/2V1Y86sc/versions/PO2Zt8mf/zamega-neoforge-1.7.2.jar"
+hash-format = "sha512"
+hash = "5691bd12d0023ed29f888f71536a014a1168fba49d97fe372b620f30adb56fe9f0f1105ddf6ffbacad1d7303965ad26ad7a625078d12d1b1e3532847cb9e7772"
+
+[update.modrinth]
+mod-id = "2V1Y86sc"
+version = "PO2Zt8mf"

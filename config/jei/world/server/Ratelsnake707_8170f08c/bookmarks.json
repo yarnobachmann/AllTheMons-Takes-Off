@@ -1,0 +1,5 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:stick"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"functionalstorage:linking_tool","components":{"functionalstorage:action_mode":"add","functionalstorage:controller_position":[-2572,75,-1238],"functionalstorage:linking_mode":"multiple"}},"type":"item_stack","bookmarkType":"INGREDIENT"}
+]

@@ -1,0 +1,12 @@
+name = "Aquaculture 2-1.21.1-2.7.19"
+filename = "Aquaculture-1.21.1-2.7.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Vl1uNAuy/versions/tAo4dqd8/Aquaculture-1.21.1-2.7.19.jar"
+hash-format = "sha512"
+hash = "f0b50af35f2957ad3c50b74df1c89c590bee350008d0880eb41b1ca4897bf31a9ff8e04a6079ca6d96c3f675d6427b12690794000e5b7f12e3dca439f916070d"
+
+[update.modrinth]
+mod-id = "Vl1uNAuy"
+version = "tAo4dqd8"

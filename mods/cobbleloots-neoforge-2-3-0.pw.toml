@@ -1,0 +1,12 @@
+name = "Cobbleloots v2.3.0 ~ Neoforge"
+filename = "cobbleloots-neoforge-2.3.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/kcudYghD/versions/RTFvBl1a/cobbleloots-neoforge-2.3.0.jar"
+hash-format = "sha512"
+hash = "364a17240c9841bd169c2de46191aab446997728042f12aa03b2b1cef6fc3c7a3e528a8068d904fc0feed07ace25d565e34b39f41c37aa507a8aa486ef9a6b3e"
+
+[update.modrinth]
+mod-id = "kcudYghD"
+version = "RTFvBl1a"

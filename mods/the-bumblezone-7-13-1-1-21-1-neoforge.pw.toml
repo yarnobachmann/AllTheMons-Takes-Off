@@ -1,0 +1,12 @@
+name = "The Bumblezone v7.13.1 (1.21.1 MC Neoforge)"
+filename = "the_bumblezone-7.13.1+1.21.1-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/38tpSycf/versions/TrLV99FS/the_bumblezone-7.13.1%2B1.21.1-neoforge.jar"
+hash-format = "sha512"
+hash = "1b1c265f89b855812014b75fd588330125a81be5657e5d4c42ebd0821eee2e56b06f0af7ccbc110958cf3f71738383681d0f55dd2d69e6db44085554cc00f187"
+
+[update.modrinth]
+mod-id = "38tpSycf"
+version = "TrLV99FS"

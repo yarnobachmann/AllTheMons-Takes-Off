@@ -1,0 +1,12 @@
+name = "Essential 1.3.10.6"
+filename = "Essential_1-3-10-6_neoforge_1-21-1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/k2ZPuTBm/versions/qezhmxww/Essential_1-3-10-6_neoforge_1-21-1.jar"
+hash-format = "sha512"
+hash = "f1bb76b2a27a46f00f2385ae2ebb99128a9ac9cdec2041e3f4983a8e58a35d6497f454206e0f345e833ceb6f15a16e89e4003489643617360f8dee79d31c6fa6"
+
+[update.modrinth]
+mod-id = "k2ZPuTBm"
+version = "qezhmxww"

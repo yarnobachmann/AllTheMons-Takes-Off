@@ -1,0 +1,12 @@
+name = "Blue Flame Burning 1.21.1-1.1.1"
+filename = "blueflame-1.21.1-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/8k7QiW7U/versions/vLptJQLR/blueflame-1.21.1-1.1.1.jar"
+hash-format = "sha512"
+hash = "3e0aa7dec4fd0654501348bffc84897854616fe1524bc401aa709f5374c190e1e9dcb87ff99dfeb1a5acab987a1893ed9cfafc10bb228e02efc7ff78cb22d9e7"
+
+[update.modrinth]
+mod-id = "8k7QiW7U"
+version = "vLptJQLR"

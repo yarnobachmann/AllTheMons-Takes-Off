@@ -1,0 +1,12 @@
+name = "3.0.1-b - 1.21.1 neo/fabric"
+filename = "DistantHorizons-3.0.1-b-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/VH8Pl4yr/DistantHorizons-3.0.1-b-1.21.1-fabric-neoforge.jar"
+hash-format = "sha512"
+hash = "fc25b9d49cb3116416666e35cfb3c0e31d0e395f88c62b97f6e8dd992b6e11b76456787abbc2c5c675275cb4dcf35c565875cc3f07971218287b50ccad914b3e"
+
+[update.modrinth]
+mod-id = "uCdwusMi"
+version = "VH8Pl4yr"

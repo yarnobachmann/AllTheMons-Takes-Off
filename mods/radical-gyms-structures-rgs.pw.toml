@@ -1,0 +1,12 @@
+name = "[Mod] RGS 0.6"
+filename = "Radical Gyms  Structures - RGS.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3sLJoaQH/versions/mk1teRxf/Radical%20Gyms%20%26%20Structures%20-%20RGS.jar"
+hash-format = "sha512"
+hash = "2520f0c427e542a79ed06649944a494fc749b1e94c107baa8bb99675307fe95fc1c549e2a6c525ec006701515df52ce34b0fe0efb3ed7d2092e9ee4fa287d6be"
+
+[update.modrinth]
+mod-id = "3sLJoaQH"
+version = "mk1teRxf"

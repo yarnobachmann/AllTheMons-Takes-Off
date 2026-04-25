@@ -1,0 +1,12 @@
+name = "v1.6.5 ~ Neoforge 21.1"
+filename = "lithostitched-1.6.5-neoforge-21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/XaDC71GB/versions/keVceya0/lithostitched-1.6.5-neoforge-21.1.jar"
+hash-format = "sha512"
+hash = "9af9db5f585abe098168e820edfa69c852c2c028fee2e3a577830d07f5dbf00329ce24e12a3d7480009266f8bfb9e850b1dde20787103525717a9df17b3403b9"
+
+[update.modrinth]
+mod-id = "XaDC71GB"
+version = "keVceya0"

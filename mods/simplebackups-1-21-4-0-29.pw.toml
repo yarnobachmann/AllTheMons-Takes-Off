@@ -1,0 +1,12 @@
+name = "SimpleBackups-1.21-4.0.29.jar"
+filename = "SimpleBackups-1.21-4.0.29.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fzSKSXVK/versions/RTp9wiNL/SimpleBackups-1.21-4.0.29.jar"
+hash-format = "sha512"
+hash = "c88b22fc351f9647b4e0b088acb7f062e3bddd9c098e41eecd8b3c6678ee33837e0a074e062c1078d8d36859a2b918bdd96512f8b78046ab2388fcd2ba450bc6"
+
+[update.modrinth]
+mod-id = "fzSKSXVK"
+version = "RTp9wiNL"

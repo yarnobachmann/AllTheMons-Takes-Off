@@ -1,0 +1,12 @@
+name = "PKGBadges 7.0"
+filename = "PKGBadges-7.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/vEkz5T55/versions/mIe06LCy/PKGBadges-7.0.jar"
+hash-format = "sha512"
+hash = "7bef3f8e85717e45492300151df49d0ab3eb048ae4c3e0e1f2a22cad1a9da4a825a4b2cea329769f591e6d9e65e81cfaa562613d2855062308786ad6e5e00f2f"
+
+[update.modrinth]
+mod-id = "vEkz5T55"
+version = "mIe06LCy"

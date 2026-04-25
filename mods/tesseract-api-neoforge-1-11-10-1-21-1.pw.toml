@@ -1,0 +1,12 @@
+name = "Tesseract API 1.11.10-1.21.1"
+filename = "tesseract-api-neoforge-1.11.10-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/pHNT1iyc/versions/ciyDFgWt/tesseract-api-neoforge-1.11.10-1.21.1.jar"
+hash-format = "sha512"
+hash = "28588f3501350cc903453a560832c9b55879ab28db1c8faadf4eb3026b21f67a541108ccb6706db2227a47172ed255333dba7b551817e3e8dfdd384815c0a378"
+
+[update.modrinth]
+mod-id = "pHNT1iyc"
+version = "ciyDFgWt"

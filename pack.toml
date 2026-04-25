@@ -1,0 +1,13 @@
+name = "All The Mons Takes Off"
+author = "yarnobachmann"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "641ac2b03abaca82bcf191c60959928f0e1106fb623533d28d314b6c310721a8"
+
+[versions]
+minecraft = "1.21.1"
+neoforge = "21.1.227"

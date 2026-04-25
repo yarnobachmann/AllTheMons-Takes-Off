@@ -1,0 +1,12 @@
+name = "Version 0.15.0-beta"
+filename = "rctapi-neoforge-1.21.1-0.15.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/CBfM2yw7/versions/SXmQGjoe/rctapi-neoforge-1.21.1-0.15.0-beta.jar"
+hash-format = "sha512"
+hash = "1d47a714f41de4a3805a12b131fa69ec9a537b1b6fbce2ad547d523d7b749918ac1db7f7aaaa29e2da17432c5e9d417f39f4bc0c94b8c3c9573153d34fd325c4"
+
+[update.modrinth]
+mod-id = "CBfM2yw7"
+version = "SXmQGjoe"

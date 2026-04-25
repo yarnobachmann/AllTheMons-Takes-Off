@@ -1,0 +1,12 @@
+name = "\"PneumaticCraft: Repressurized\" 8.2.19 MC-1.21.1"
+filename = "pneumaticcraft-repressurized-8.2.19+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ncAcdgk7/versions/Gh5D7hbW/pneumaticcraft-repressurized-8.2.19%2Bmc1.21.1.jar"
+hash-format = "sha512"
+hash = "b7c4cfcfb4b646173912a29ba75fe3d4ea1d393fd7dfed8fa59f8d7fda8b57be24cc4e6d36cbf926b9014d9b5b533e64d23eeea1beb47be394675713c0ff6062"
+
+[update.modrinth]
+mod-id = "ncAcdgk7"
+version = "Gh5D7hbW"

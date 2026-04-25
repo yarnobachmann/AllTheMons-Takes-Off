@@ -1,0 +1,12 @@
+name = "Expanded AE 2.1.1"
+filename = "expandedae-2.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ayN3DZKb/versions/Iw2gl7Lb/expandedae-2.1.1.jar"
+hash-format = "sha512"
+hash = "5d6b0c7430d6f1f2bdb2cb38832ee27d0b28402d16171a9fe746d0275ba54c288405b64b9ad269c010aadd729e82ddeb61b9550c0361c6e1ece2c0bdc77a4b23"
+
+[update.modrinth]
+mod-id = "ayN3DZKb"
+version = "Iw2gl7Lb"

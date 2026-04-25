@@ -1,0 +1,9 @@
+[
+  {"version":2},
+  {"ingredient":{"id":"minecraft:sculk"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"cobblemon:exp_candy_m"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"minecraft:coal"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"productivebees:sturdy_bee_cage"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"create:mechanical_press"},"type":"item_stack","bookmarkType":"INGREDIENT"},
+  {"ingredient":{"id":"sauce:source_fluid"},"type":"fluid_stack","bookmarkType":"INGREDIENT"}
+]

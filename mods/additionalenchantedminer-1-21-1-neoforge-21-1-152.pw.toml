@@ -1,0 +1,12 @@
+name = "v21.1.152-neoforge"
+filename = "AdditionalEnchantedMiner-1.21.1-neoforge-21.1.152.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/jhxX1zVW/versions/TBQ6F81r/AdditionalEnchantedMiner-1.21.1-neoforge-21.1.152.jar"
+hash-format = "sha512"
+hash = "67c506da25731b00a0c35279585b03519c4067912f955890e88cdd8d793c7f1fbeb812ec391a3d842d6968723f2dab3ac2885cc1b76becd4866dd545cc445341"
+
+[update.modrinth]
+mod-id = "jhxX1zVW"
+version = "TBQ6F81r"
