@@ -3362,7 +3362,7 @@ metafile = false
 
 [[files]]
 file = "config/fancymenu/customization/title_screen_layout.txt"
-hash = "72f77cec9c2bda8f0d982cdb6b88aecf89b6a552d89bf0bc9eb69789f46ac95d"
+hash = "0056f5f6eb94cef58f761cd7b03e88b6ed3d9b39d976be554dc7d642e8cd832d"
 metafile = false
 
 [[files]]
@@ -11628,6 +11628,11 @@ metafile = false
 [[files]]
 file = "config/yacl.json5"
 hash = "121b93764159be6fb7dab523b29a844e2bb78400ce8c48f52135a097e9b0006e"
+metafile = false
+
+[[files]]
+file = "kubejs/startup_scripts/allthemons_missing_registries.js"
+hash = "e5aeb52b978479076015b39d11d34876ca85c62502ba0bc807bd62dd12014355"
 metafile = false
 
 [[files]]
