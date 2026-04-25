@@ -2,7 +2,7 @@
   "githubUsername": "yarnobachmann",
   "repoName": "AllTheMons-Takes-Off",
   "pagesRoot": "root",
-  "packUrl": "https://yarnobachmann.github.io/AllTheMons-Takes-Off/pack.toml",
+  "packUrl": "https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/pack.toml",
   "instanceName": "All The Mons Takes Off",
   "minecraftVersion": "1.21.1",
   "loader": "neoforge",

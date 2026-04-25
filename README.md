@@ -4,16 +4,16 @@ Self-hosted packwiz modpack for installing **All The Mons Takes Off** in Prism L
 
 ## Prism install link
 
-After GitHub Pages is enabled for this repository, paste this into Prism Launcher's **Add Instance > Import > Link** field:
+Paste this into Prism Launcher's **Add Instance > Import > Link** field:
 
 ```text
-https://yarnobachmann.github.io/AllTheMons-Takes-Off/All-The-Mons-Takes-Off-1.0.0-prism.zip
+https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/All-The-Mons-Takes-Off-1.0.0-prism.zip
 ```
 
 The pack entry point is:
 
 ```text
-https://yarnobachmann.github.io/AllTheMons-Takes-Off/pack.toml
+https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/pack.toml
 ```
 
 ## Pack details
@@ -23,18 +23,9 @@ https://yarnobachmann.github.io/AllTheMons-Takes-Off/pack.toml
 - NeoForge: `21.1.227`
 - Recommended memory: `8192 MB`
 
-## Publish steps
+## GitHub Pages optional
 
-```powershell
-git init
-git branch -M main
-git remote add origin https://github.com/yarnobachmann/AllTheMons-Takes-Off.git
-git add .
-git commit -m "Create Prism installable modpack"
-git push -u origin main
-```
-
-Then enable GitHub Pages:
+The raw GitHub links above work without Pages. You can still enable GitHub Pages for a nicer browser page:
 
 1. Open the repository on GitHub.
 2. Go to **Settings > Pages**.
