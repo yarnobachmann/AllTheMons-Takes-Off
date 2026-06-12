@@ -1,0 +1,11 @@
+name = "Reap Mod"
+filename = "reap-neoforge-1.21.1-1.1.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5608/983/reap-neoforge-1.21.1-1.1.2.jar"
+hash-format = "sha1"
+hash = "c57c3bcfdaf55e4719cc785b72631a794e5381fc"
+[update.curseforge]
+project-id = 244256
+file-id = 5608983

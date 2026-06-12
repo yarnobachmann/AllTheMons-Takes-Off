@@ -1,12 +1,11 @@
-name = "1.21.1-v1.10.1"
+name = "Security Craft"
 filename = "[1.21.1] SecurityCraft v1.10.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/v8jzRtAt/versions/5yIP4ezg/%5B1.21.1%5D%20SecurityCraft%20v1.10.1.jar"
-hash-format = "sha512"
-hash = "0dc56caeebc4cf8fdcf565a533d83ede95cf1e2417f93fa6fb9d29f483414cbd9d3d9b2eee76bde4edeb27a218f52c65e57594c3253ce0c41142db5648c42690"
-
-[update.modrinth]
-mod-id = "v8jzRtAt"
-version = "5yIP4ezg"
+url = "https://edge.forgecdn.net/files/7148/568/%5b1.21.1%5d%20SecurityCraft%20v1.10.1.jar"
+hash-format = "sha1"
+hash = "692f81f4fdcd0d1298db96a9582eea41baeae252"
+[update.curseforge]
+project-id = 64760
+file-id = 7148568

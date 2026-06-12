@@ -1,12 +1,11 @@
-name = "CodeChicken Lib 1.21.1-4.6.1.526"
+name = "CodeChicken Lib 1.8.+"
 filename = "CodeChickenLib-1.21.1-4.6.1.526.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2gq0ALnz/versions/gQ1srSKh/CodeChickenLib-1.21.1-4.6.1.526.jar"
-hash-format = "sha512"
-hash = "2d4efdc64531d5bb8133a247bc22a0728ab99dbcb2842ad0303b2242afd0ddc1b90cd43f8ed8562f651d8d9e228c95d15d73b4b63b3980286450de2df9c0e5ef"
-
-[update.modrinth]
-mod-id = "2gq0ALnz"
-version = "gQ1srSKh"
+url = "https://edge.forgecdn.net/files/7281/427/CodeChickenLib-1.21.1-4.6.1.526.jar"
+hash-format = "sha1"
+hash = "6a278b5a2788c2fee7ae52d17f24187332d436b2"
+[update.curseforge]
+project-id = 242818
+file-id = 7281427

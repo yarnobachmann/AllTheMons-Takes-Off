@@ -1,0 +1,11 @@
+name = "Utilitarian"
+filename = "utilitarian-1.21.1-0.19.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7973/750/utilitarian-1.21.1-0.19.2.jar"
+hash-format = "sha1"
+hash = "b7727fad292c86085b10c5fd3ef89d2d48ac9f29"
+[update.curseforge]
+project-id = 929559
+file-id = 7973750

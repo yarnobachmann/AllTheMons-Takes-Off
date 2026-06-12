@@ -1,12 +1,11 @@
-name = "Jumpy Boats 1.21.0-1.0.5"
+name = "Jumpy Boats"
 filename = "jumpboat-1.21.0-1.0.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Z6clHfIZ/versions/6uiKWebq/jumpboat-1.21.0-1.0.5.jar"
-hash-format = "sha512"
-hash = "3f8d2d66a3536a1628e4a25f112123c1c25d443e76c631227949d867f1905822ccce3329acc7d2a7d538ed994fd0a7f5d57e76943c4c5f1686e0ccdc574070ab"
-
-[update.modrinth]
-mod-id = "Z6clHfIZ"
-version = "6uiKWebq"
+url = "https://edge.forgecdn.net/files/5439/938/jumpboat-1.21.0-1.0.5.jar"
+hash-format = "sha1"
+hash = "8fa562264f3ffd030773b2744ff6b42c52080ce6"
+[update.curseforge]
+project-id = 542110
+file-id = 5439938

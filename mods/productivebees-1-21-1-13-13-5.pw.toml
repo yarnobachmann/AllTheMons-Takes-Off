@@ -1,0 +1,11 @@
+name = "Productive Bees"
+filename = "productivebees-1.21.1-13.13.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8022/994/productivebees-1.21.1-13.13.5.jar"
+hash-format = "sha1"
+hash = "31f7bb1567fdbb508db133f5b094d5d0d293030d"
+[update.curseforge]
+project-id = 377897
+file-id = 8022994

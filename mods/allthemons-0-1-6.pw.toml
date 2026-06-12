@@ -1,0 +1,11 @@
+name = "All The Mons - Coremod (this is not the modpack you are looking for)"
+filename = "allthemons-0.1.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8119/742/allthemons-0.1.6.jar"
+hash-format = "sha1"
+hash = "ac9390363c3ee0f2d6a9bbec37f6b538112acda7"
+[update.curseforge]
+project-id = 1361840
+file-id = 8119742

@@ -1,16 +1,10 @@
-{
-  "version": 1,
-  "ingredientDedupe": false,
-  "entitySectionCME": false,
-  "debugItemStackModifications": false,
-  "scoreboardDebug": false,
-  "debugNativeImage": false,
-  "disableEternalStarlightProgress": false,
-  "skipTickingUnloadedFluxNetworks": true,
-  "disableSearchTree": false,
-  "logIntervalInMinutes": 10,
-  "showSummaryOnDebugScreen": true,
-  "memoryUsageWarningPercentage": 90,
-  "debugChunkLoading": false,
-  "debugThreadsStuck": false
+﻿{
+    "version":  1,
+    "ingredientDedupe":  false,
+    "entitySectionCME":  false,
+    "debugItemStackModifications":  false,
+    "scoreboardDebug":  false,
+    "debugNativeImage":  false,
+    "disableEternalStarlightProgress":  false,
+    "skipTickingUnloadedFluxNetworks":  true
 }

@@ -1,0 +1,11 @@
+name = "FTB JEI Extras"
+filename = "ftb-jei-extras-21.1.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6695/679/ftb-jei-extras-21.1.7.jar"
+hash-format = "sha1"
+hash = "ef01126201a805991bbfe5351cff7d0a9e3a077b"
+[update.curseforge]
+project-id = 1103259
+file-id = 6695679

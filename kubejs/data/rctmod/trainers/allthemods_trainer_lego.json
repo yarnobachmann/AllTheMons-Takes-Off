@@ -18,55 +18,70 @@
   ],
   "team": [
     {
-      "species": "infernape",
-      "gender": "MALE",
+      "species": "meowscarada",
+      "gender": "FEMALE",
       "level": 84,
-      "nature": "naughty",
-      "ability": "blaze",
+      "nature": "jolly",
+      "ability": "protean",
       "moveset": [
-        "closecombat",
-        "flamethrower",
-        "acrobatics",
-        "rockslide"
+        "knockoff",
+        "flowertrick",
+        "tripleaxel",
+        "uturn"
       ],
       "ivs": {
-        "hp": 25,
-        "atk": 25,
+        "hp": 31,
+        "atk": 31,
         "def": 25,
         "spa": 25,
         "spd": 25,
-        "spe": 25
+        "spe": 31
       },
-      "evs": {}
+      "evs": {
+        "atk": 252,
+        "spd": 6,
+        "spe": 252
+      },
+      "heldItem": [
+        "life_orb"
+      ]
     },
     {
       "species": "garchomp",
       "gender": "FEMALE",
       "level": 86,
-      "nature": "bold",
+      "nature": "jolly",
       "ability": "roughskin",
       "moveset": [
-        "outrage",
+        "swordsdance",
         "earthquake",
-        "dragonclaw",
-        "stoneedge"
+        "scaleshot",
+        "firefang"
       ],
       "ivs": {
-        "hp": 25,
-        "atk": 25,
+        "hp": 31,
+        "atk": 31,
         "def": 25,
         "spa": 25,
         "spd": 25,
-        "spe": 25
+        "spe": 31
       },
-      "evs": {}
+      "evs": {
+        "atk": 252,
+        "spd": 6,
+        "spe": 252
+      },
+      "heldItem": [
+        "mega_showdown:garchompite",
+        "loaded_dice"
+      ]
     },
     {
       "species": "togekiss",
       "gender": "FEMALE",
       "level": 85,
       "nature": "timid",
-      "ability": "superluck",
+      "ability": "serenegrace",
       "moveset": [
         "nastyplot",
         "airslash",
@@ -87,47 +102,20 @@
         "spe": 252
       },
       "heldItem": [
-        "focus_sash"
+        "heavy_duty_boots"
       ]
     },
     {
-      "species": "tinkaton",
-      "gender": "FEMALE",
-      "level": 86,
-      "nature": "adamant",
-      "ability": "owntempo",
-      "moveset": [
-        "gigatonhammer",
-        "playrough",
-        "skittersmack",
-        "stoneedge"
-      ],
-      "ivs": {
-        "hp": 31,
-        "atk": 31,
-        "def": 31,
-        "spd": 31,
-        "spe": 31
-      },
-      "evs": {
-        "hp": 252,
-        "atk": 252
-      },
-      "heldItem": [
-        "sitrus_berry"
-      ]
-    },
-        {
       "species": "toxtricity",
       "gender": "MALE",
       "level": 86,
-      "nature": "jolly",
-      "ability": "swarm",
+      "nature": "modest",
+      "ability": "punkrock",
       "moveset": [
         "boomburst",
         "thunderbolt",
         "sludgebomb",
-        "thunderwave"
+        "voltswitch"
       ],
       "ivs": {
         "hp": 31,
@@ -138,24 +126,24 @@
         "spe": 31
       },
       "evs": {
-        "atk": 252,
-        "spd": 4,
+        "spa": 252,
+        "spd": 6,
         "spe": 252
       },
       "heldItem": [
-        "safety_goggles"
+        "throat_spray"
       ]
     },
     {
       "species": "baxcalibur",
       "gender": "FEMALE",
-      "level": 90,
-      "nature": "jolly",
-      "ability": "icebody",
+      "level": 86,
+      "nature": "adamant",
+      "ability": "thermalexchange",
       "moveset": [
-        "crunch",
-        "iciclecrash",
-        "outrage",
+        "glaiverush",
+        "iciclespear",
+        "dragondance",
         "earthquake"
       ],
       "ivs": {
@@ -172,7 +160,36 @@
         "spe": 252
       },
       "heldItem": [
-        "silver_powder"
+        "mega_showdown:baxcalibrite",
+        "loaded_dice"
+      ]
+    },
+    {
+      "species": "victini",
+      "gender": "FEMALE",
+      "level": 90,
+      "nature": "jolly",
+      "ability": "victorystar",
+      "moveset": [
+        "vcreate",
+        "boltstrike",
+        "uturn",
+        "zenheadbutt"
+      ],
+      "ivs": {
+        "hp": 31,
+        "atk": 31,
+        "def": 31,
+        "spd": 31,
+        "spe": 31
+      },
+      "evs": {
+        "atk": 252,
+        "spd": 6,
+        "spe": 252
+      },
+      "heldItem": [
+        "choice_band"
       ]
     }
   ]

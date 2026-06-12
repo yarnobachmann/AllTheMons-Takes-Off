@@ -1,12 +1,11 @@
-name = "Baubley Heart Canisters 1.21.1-1.4.0"
+name = "Baubley Heart Canisters"
 filename = "baubley-heart-canisters-1.21.1-1.4.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fPdy2fCM/versions/fvz21Mg1/baubley-heart-canisters-1.21.1-1.4.0.jar"
-hash-format = "sha512"
-hash = "cc9c335dcd09f2de94c36e20f7f7969613fbe3dd1fb0775bfe0f42ca74381fab005804040053403a3d7354e7645e0d8785250d8dfc56961de7ba34832fc591ee"
-
-[update.modrinth]
-mod-id = "fPdy2fCM"
-version = "fvz21Mg1"
+url = "https://edge.forgecdn.net/files/7773/889/baubley-heart-canisters-1.21.1-1.4.0.jar"
+hash-format = "sha1"
+hash = "ccaae33c804d4897039b55a98e9da608b15fee8b"
+[update.curseforge]
+project-id = 282947
+file-id = 7773889

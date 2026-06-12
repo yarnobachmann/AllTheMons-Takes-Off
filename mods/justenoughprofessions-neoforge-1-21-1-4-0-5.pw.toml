@@ -1,0 +1,11 @@
+name = "Just Enough Professions (JEP)"
+filename = "JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7966/681/JustEnoughProfessions-neoforge-1.21.1-4.0.5.jar"
+hash-format = "sha1"
+hash = "439ea1baa5e3065e36e0e57422f22403918bb59f"
+[update.curseforge]
+project-id = 417645
+file-id = 7966681

@@ -1,0 +1,11 @@
+name = "Cobblegen Galore"
+filename = "cobblegengalore-1.21.1-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7268/812/cobblegengalore-1.21.1-0.2.8.jar"
+hash-format = "sha1"
+hash = "a799bf9d4818020bc41c009503f6d77f78eec247"
+[update.curseforge]
+project-id = 1108467
+file-id = 7268812

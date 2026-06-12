@@ -1,0 +1,11 @@
+name = "Crash Assistant"
+filename = "CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8049/672/CrashAssistant-neoforge-1.20.6-1.21.4-1.11.9.jar"
+hash-format = "sha1"
+hash = "a7a2945e8544a3a109ddb01f9c32574fc1e4b902"
+[update.curseforge]
+project-id = 1154099
+file-id = 8049672

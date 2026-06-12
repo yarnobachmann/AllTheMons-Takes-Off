@@ -1,0 +1,11 @@
+name = "MmmMmmMmmMmm (Target Dummy)"
+filename = "dummmmmmy-1.21-2.0.12-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7943/676/dummmmmmy-1.21-2.0.12-neoforge.jar"
+hash-format = "sha1"
+hash = "0e69c2a8e4e51df42e45b2d6deb3a855bdf8dce6"
+[update.curseforge]
+project-id = 225738
+file-id = 7943676

@@ -1,12 +1,11 @@
-name = "ars_creo-1.21.1-5.2.0"
+name = "Ars Creo"
 filename = "ars_creo-1.21.1-5.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/fZ324GMc/versions/97dAXuzS/ars_creo-1.21.1-5.2.0.jar"
-hash-format = "sha512"
-hash = "d053d9a341d58b0bed5b18e90186e3a54d7c11ca2d05e3b67b32f6c25f6373076782b12932454c5a76f37b736162005976e32e2317ad034622e9516e638fde78"
-
-[update.modrinth]
-mod-id = "fZ324GMc"
-version = "97dAXuzS"
+url = "https://edge.forgecdn.net/files/8118/876/ars_creo-1.21.1-5.2.0.jar"
+hash-format = "sha1"
+hash = "bdfe90fe4efc8fd5347e3d14870767fc471e91ac"
+[update.curseforge]
+project-id = 575698
+file-id = 8118876

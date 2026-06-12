@@ -1,0 +1,11 @@
+name = "Titanium"
+filename = "titanium-1.21-4.0.43.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7951/516/titanium-1.21-4.0.43.jar"
+hash-format = "sha1"
+hash = "e2f62d1bcdd38dd91679a2114e9946d9415746ee"
+[update.curseforge]
+project-id = 287342
+file-id = 7951516

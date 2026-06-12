@@ -1,0 +1,11 @@
+name = "LaserIO"
+filename = "laserio-1.9.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5730/7/laserio-1.9.11.jar"
+hash-format = "sha1"
+hash = "0545bff65926346c9663fe3c397029561a87400f"
+[update.curseforge]
+project-id = 626839
+file-id = 5730007

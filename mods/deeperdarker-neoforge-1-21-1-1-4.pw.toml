@@ -1,0 +1,11 @@
+name = "Deeper and Darker"
+filename = "deeperdarker-neoforge-1.21.1-1.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7940/538/deeperdarker-neoforge-1.21.1-1.4.jar"
+hash-format = "sha1"
+hash = "ba6a751b9365b3e08a28c13ddfb43c566dfdf496"
+[update.curseforge]
+project-id = 659011
+file-id = 7940538

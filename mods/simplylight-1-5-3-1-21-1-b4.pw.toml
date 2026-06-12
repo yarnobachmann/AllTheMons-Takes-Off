@@ -1,0 +1,11 @@
+name = "Simply Light"
+filename = "simplylight-1.5.3+1.21.1-b4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/6219/29/simplylight-1.5.3%2b1.21.1-b4.jar"
+hash-format = "sha1"
+hash = "d85bfed3824cb66d258acf11c73edaf11d583223"
+[update.curseforge]
+project-id = 300331
+file-id = 6219029

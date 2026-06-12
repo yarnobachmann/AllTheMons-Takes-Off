@@ -1,0 +1,11 @@
+name = "Integrated Dynamics"
+filename = "integrateddynamics-1.21.1-neoforge-1.33.0-1832.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8039/124/integrateddynamics-1.21.1-neoforge-1.33.0-1832.jar"
+hash-format = "sha1"
+hash = "2e5d8024024643edf7917fb70cf889511ac93b3e"
+[update.curseforge]
+project-id = 236307
+file-id = 8039124

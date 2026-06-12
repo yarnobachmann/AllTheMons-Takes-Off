@@ -1,0 +1,11 @@
+name = "NetherPortalFix"
+filename = "netherportalfix-neoforge-1.21.1-21.1.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5623/547/netherportalfix-neoforge-1.21.1-21.1.1.jar"
+hash-format = "sha1"
+hash = "7cf40ec774392823e709da7659a6d4a5a04c8c9d"
+[update.curseforge]
+project-id = 241160
+file-id = 5623547

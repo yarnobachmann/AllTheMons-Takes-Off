@@ -1,12 +1,11 @@
-name = "AlmostUnified-NeoForge-1.21.1-1.4.1"
+name = "Almost Unified"
 filename = "almostunified-neoforge-1.21.1-1.4.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/sdaSaQEz/versions/vvzNMESp/almostunified-neoforge-1.21.1-1.4.1.jar"
-hash-format = "sha512"
-hash = "cb96a81a3bd4291113655097f66f5b0944b0fcf049bac663b0116b639b0989dbf5701d3ffa191df2735bd9af18bd66bca5e206bd2367b2b2dd143ee989284a81"
-
-[update.modrinth]
-mod-id = "sdaSaQEz"
-version = "vvzNMESp"
+url = "https://edge.forgecdn.net/files/7873/439/almostunified-neoforge-1.21.1-1.4.1.jar"
+hash-format = "sha1"
+hash = "69913ae6d63f2e10603b272bb8a957c7d0f3f0e4"
+[update.curseforge]
+project-id = 633823
+file-id = 7873439

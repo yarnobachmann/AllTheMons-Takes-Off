@@ -1,0 +1,11 @@
+name = "McJtyLib"
+filename = "mcjtylib-1.21-9.0.20.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7299/488/mcjtylib-1.21-9.0.20.jar"
+hash-format = "sha1"
+hash = "3a42bcacd5b886ab0ce3076b64f1177b1dcd300a"
+[update.curseforge]
+project-id = 233105
+file-id = 7299488

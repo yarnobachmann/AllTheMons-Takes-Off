@@ -1,12 +1,11 @@
-name = "Create: The Factory Must Grow 1.2.0"
+name = "Create: The Factory Must Grow"
 filename = "tfmg-1.2.0.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/USgVjXsk/versions/uDi14nbt/tfmg-1.2.0.jar"
-hash-format = "sha512"
-hash = "03f2ad28c78ef565ef203c5650280acb0b846d6105dc5c84b2e31187f501be5c59733ef3adb623fbaa32c3233d113d608905259128661ffab06b26b270b1b38c"
-
-[update.modrinth]
-mod-id = "USgVjXsk"
-version = "uDi14nbt"
+url = "https://edge.forgecdn.net/files/7430/73/tfmg-1.2.0.jar"
+hash-format = "sha1"
+hash = "b520f3687f60a69eb265ff5b9a16759b9e124103"
+[update.curseforge]
+project-id = 693815
+file-id = 7430073

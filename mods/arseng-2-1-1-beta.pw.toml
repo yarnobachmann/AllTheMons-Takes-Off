@@ -1,12 +1,11 @@
-name = "2.1.1-beta (NeoForge 1.21.1)"
+name = "Ars Ã‰nergistique"
 filename = "arseng-2.1.1-beta.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/IJI3QuK8/versions/Bdb8HLZ0/arseng-2.1.1-beta.jar"
-hash-format = "sha512"
-hash = "4d6229c3c4f627e9804b2afdbeb58fedf172c70e8704b0fa91cfc4d5073bb13ede99b71cd35ee397a92b891a4f884b63bead4a7fbcbe8513fbc8f29c786f42c2"
-
-[update.modrinth]
-mod-id = "IJI3QuK8"
-version = "Bdb8HLZ0"
+url = "https://edge.forgecdn.net/files/6203/425/arseng-2.1.1-beta.jar"
+hash-format = "sha1"
+hash = "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6"
+[update.curseforge]
+project-id = 905641
+file-id = 6203425

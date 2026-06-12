@@ -1,12 +1,11 @@
-name = "Create: Escalated 1.2.1"
+name = "Create: Escalated"
 filename = "escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/LyOBYG8Q/versions/6DNGSw3t/escalated-1.2.1%2Bcreate.6.0.8-mc.1.21.1-neoforge.jar"
-hash-format = "sha512"
-hash = "239a2622d660c0b268e8327749d81b3b692c2b418abe1b7269eca948f84c7dba80ee65d7c7f9df4815cf5029d2bed2f105c8f590ea48b23be19dd1d71181bec5"
-
-[update.modrinth]
-mod-id = "LyOBYG8Q"
-version = "6DNGSw3t"
+url = "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
+hash-format = "sha1"
+hash = "c0c2a66ecf4204972920bfd4d62314aea83dc64e"
+[update.curseforge]
+project-id = 1260145
+file-id = 7430007

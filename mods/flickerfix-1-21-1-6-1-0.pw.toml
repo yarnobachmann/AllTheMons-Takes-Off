@@ -1,0 +1,11 @@
+name = "FlickerFix"
+filename = "flickerfix-1.21.1-6.1.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7413/25/flickerfix-1.21.1-6.1.0.jar"
+hash-format = "sha1"
+hash = "3eadf069d9eeb7fb4e2295828a8aaefe6691d96d"
+[update.curseforge]
+project-id = 431430
+file-id = 7413025

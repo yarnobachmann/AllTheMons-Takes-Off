@@ -1,0 +1,11 @@
+name = "Mining Gadgets"
+filename = "mininggadgets-1.18.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/5615/761/mininggadgets-1.18.6.jar"
+hash-format = "sha1"
+hash = "3c0279d46a802cbbdb7c259691ae7254fe9e8183"
+[update.curseforge]
+project-id = 351748
+file-id = 5615761

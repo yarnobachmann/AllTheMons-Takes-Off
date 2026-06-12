@@ -1,12 +1,11 @@
-name = "AdvancedAE-1.6.11-1.21.1"
+name = "AdvancedAE"
 filename = "AdvancedAE-1.6.11-1.21.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/rxYaglEe/versions/lHSZ2gYI/AdvancedAE-1.6.11-1.21.1.jar"
-hash-format = "sha512"
-hash = "8e34fa91360dc9871292e33e6348fdb33251bba484c15246b08c91c6c6ff69b4571105029f7ec456d875586110e19f6f45545a2a940e3fe26ec91a928d33d9d9"
-
-[update.modrinth]
-mod-id = "rxYaglEe"
-version = "lHSZ2gYI"
+url = "https://edge.forgecdn.net/files/7849/217/AdvancedAE-1.6.11-1.21.1.jar"
+hash-format = "sha1"
+hash = "0af8033f7291b9f5062b229053e16b439a906db9"
+[update.curseforge]
+project-id = 1084104
+file-id = 7849217

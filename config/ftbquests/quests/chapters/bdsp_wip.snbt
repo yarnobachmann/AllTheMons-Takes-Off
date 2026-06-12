@@ -34,14 +34,22 @@
 				id: "cobblemon:smooth_rock"
 			}
 			id: "508CCA2DDD8602AA"
-			rewards: [{
-				id: "139A94344F0436AC"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					id: "139A94344F0436AC"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6CA2BBE65798A752"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_roark_1"
@@ -58,15 +66,23 @@
 				id: "cobblemon:ice_stone"
 			}
 			id: "6106D2F6CEFFFC82"
-			rewards: [{
-				count: 2
-				id: "02BB5998C49F7AC1"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "02BB5998C49F7AC1"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6DD1718EDA238163"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_candice_1"
@@ -83,15 +99,23 @@
 				id: "minecraft:clock"
 			}
 			id: "716F9AA2E9011F06"
-			rewards: [{
-				count: 2
-				id: "7CA5F70FBF27FBB5"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "7CA5F70FBF27FBB5"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4278343AE6582A53"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_1"
@@ -108,15 +132,23 @@
 				id: "minecraft:wind_charge"
 			}
 			id: "55519316D85D116B"
-			rewards: [{
-				count: 2
-				id: "019C33704772BBE3"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "019C33704772BBE3"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "10BA97C44F10ACF4"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_saturn_2"
@@ -133,15 +165,23 @@
 				id: "cobblemon:smoke_ball"
 			}
 			id: "69EAC857B2CCB045"
-			rewards: [{
-				count: 2
-				id: "513FF9FFF1BA5507"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "513FF9FFF1BA5507"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4155FCF30745535D"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_jupiter"
@@ -158,15 +198,23 @@
 				id: "minecraft:echo_shard"
 			}
 			id: "11EBB510A604026A"
-			rewards: [{
-				count: 2
-				id: "1BA710FCD3058F46"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "1BA710FCD3058F46"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "21D9A668D5E7A8F3"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_team_galactic_boss_cyrus_2"
@@ -183,15 +231,23 @@
 				id: "cobblemon:thunder_stone"
 			}
 			id: "27ACBFA9D014D2A6"
-			rewards: [{
-				count: 2
-				id: "6D3891653276D38C"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 2
+					id: "6D3891653276D38C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "630DCE08D0CCDBE9"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_volkner_1"
@@ -208,15 +264,23 @@
 				id: "cobblemon:shiny_stone"
 			}
 			id: "5596F9B74231AB62"
-			rewards: [{
-				count: 2
-				id: "6647CA60E06ED1D9"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 2
+					id: "6647CA60E06ED1D9"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4E37781C2AF03D70"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_4"
@@ -233,15 +297,23 @@
 				id: "cobblemon:silver_powder"
 			}
 			id: "6092335560810B6F"
-			rewards: [{
-				count: 4
-				id: "2C7E5294F52251DD"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 4
+					id: "2C7E5294F52251DD"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6B0B6970326E5C7F"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_aaron_1"
@@ -258,15 +330,23 @@
 				id: "cobblemon:soft_sand"
 			}
 			id: "23F5D39BCBCD7D42"
-			rewards: [{
-				count: 4
-				id: "0A955E2CFE314656"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 4
+					id: "0A955E2CFE314656"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "79E2B6525390C167"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_bertha_1"
@@ -283,15 +363,23 @@
 				id: "cobblemon:fire_stone"
 			}
 			id: "1AB8BB655AFA79E4"
-			rewards: [{
-				count: 4
-				id: "2D914CB4DEB83C0D"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 4
+					id: "2D914CB4DEB83C0D"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "335705FA8216F814"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_flint_1"
@@ -308,15 +396,23 @@
 				id: "cobblemon:psychic_seed"
 			}
 			id: "6431628BFD0A9386"
-			rewards: [{
-				count: 4
-				id: "743DCB572A0E5F0C"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_m"
+			rewards: [
+				{
+					count: 4
+					id: "743DCB572A0E5F0C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_m"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "691D65D360EB0060"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_elite_four_lucian_1"
@@ -333,14 +429,22 @@
 				id: "cobblemon:prism_scale"
 			}
 			id: "3A12B03FE9C9D925"
-			rewards: [{
-				id: "4E8D0A30C249F83A"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_l"
+			rewards: [
+				{
+					id: "4E8D0A30C249F83A"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "54DF831B9B43C7D7"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_cynthia_1"
@@ -354,15 +458,23 @@
 		{
 			dependencies: ["3A12B03FE9C9D925"]
 			id: "45135F112E05F9B5"
-			rewards: [{
-				count: 2
-				id: "471B444AF8E522A1"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_l"
+			rewards: [
+				{
+					count: 2
+					id: "471B444AF8E522A1"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "6D8F095DACC57D98"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [
 				{
@@ -402,15 +514,23 @@
 		{
 			dependencies: ["45135F112E05F9B5"]
 			id: "13FDC88F09F96D0F"
-			rewards: [{
-				count: 3
-				id: "5698444E0FA62E57"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_l"
+			rewards: [
+				{
+					count: 3
+					id: "5698444E0FA62E57"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_l"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "3EABD0B59ACE99E0"
+					table_id: 4875026022556716679L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [
 				{
@@ -447,14 +567,22 @@
 				id: "cobblemon:wide_lens"
 			}
 			id: "099B7F8D13868CCD"
-			rewards: [{
-				id: "3A487F4B8174B700"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					id: "3A487F4B8174B700"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "7B8973E8A2C28680"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_1"
@@ -487,15 +615,23 @@
 				id: "cobblemon:scope_lens"
 			}
 			id: "21EE03301BEFB449"
-			rewards: [{
-				count: 2
-				id: "5288B09B0FC2E7AD"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 2
+					id: "5288B09B0FC2E7AD"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4C03F052EBC7E47B"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_jupiter_1"
@@ -512,15 +648,23 @@
 				id: "minecraft:sunflower"
 			}
 			id: "607E5EBE3696CC26"
-			rewards: [{
-				count: 2
-				id: "224C121264E6F8C4"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 2
+					id: "224C121264E6F8C4"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4412E032385A9415"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_gardenia_1"
@@ -537,15 +681,23 @@
 				id: "cobblemon:everstone"
 			}
 			id: "5169625567DC3B75"
-			rewards: [{
-				count: 4
-				id: "074F9B460A4D52E8"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "074F9B460A4D52E8"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "5E1AB1E8E8C204E4"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_1"
@@ -562,16 +714,24 @@
 				id: "cobblemon:black_belt"
 			}
 			id: "54729932639621E3"
-			rewards: [{
-				auto: "enabled"
-				count: 4
-				id: "42AD8706955B75FA"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 4
+					id: "42AD8706955B75FA"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "085F3A8A0F1814D7"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_maylene_1"
@@ -588,16 +748,24 @@
 				id: "minecraft:nautilus_shell"
 			}
 			id: "0346A5856EBC22FB"
-			rewards: [{
-				auto: "enabled"
-				count: 4
-				id: "7CFE639DACA8503C"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					auto: "enabled"
+					count: 4
+					id: "7CFE639DACA8503C"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "476D428A20E6AC02"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_wake_1"
@@ -614,15 +782,23 @@
 				id: "cobblemon:eviolite"
 			}
 			id: "3D63B8A64B561A71"
-			rewards: [{
-				count: 4
-				id: "2A963F71C67A6908"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "2A963F71C67A6908"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "4D5F2B2E9F4647E1"
+					table_id: 2601403313752716067L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_2"
@@ -639,15 +815,23 @@
 				id: "minecraft:ender_eye"
 			}
 			id: "57B314DBCE27B06E"
-			rewards: [{
-				count: 4
-				id: "1516DC8DF1CCC06F"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "1516DC8DF1CCC06F"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "5C774DF34C097A19"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_fantina_1"
@@ -664,15 +848,23 @@
 				id: "cobblemon:dawn_stone"
 			}
 			id: "0BD70EAB43DBD003"
-			rewards: [{
-				count: 4
-				id: "37E4DAE73DDB4B83"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "37E4DAE73DDB4B83"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "081B48B691F4ED08"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_pokemon_trainer_cedric_3"
@@ -689,15 +881,23 @@
 				id: "cobblemon:metal_coat"
 			}
 			id: "4975ADE2D75353CA"
-			rewards: [{
-				count: 4
-				id: "602F7CC1AE9927C8"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "602F7CC1AE9927C8"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "32A973ED11EE9AC2"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_gym_leader_byron_1"
@@ -714,15 +914,23 @@
 				id: "cobblemon:zoom_lens"
 			}
 			id: "183E4F5F940CBDEA"
-			rewards: [{
-				count: 4
-				id: "0B502A05D861D459"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_xs"
+			rewards: [
+				{
+					count: 4
+					id: "0B502A05D861D459"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_xs"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "79A4611BD74E3C8A"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_saturn_1"
@@ -739,15 +947,23 @@
 				id: "minecraft:fire_charge"
 			}
 			id: "207D96D22A9B97F1"
-			rewards: [{
-				count: 2
-				id: "7D726C5DD0EE3CC2"
-				item: {
-					count: 1
-					id: "cobblemon:exp_candy_s"
+			rewards: [
+				{
+					count: 2
+					id: "7D726C5DD0EE3CC2"
+					item: {
+						count: 1
+						id: "cobblemon:exp_candy_s"
+					}
+					type: "item"
 				}
-				type: "item"
-			}]
+				{
+					exclude_from_claim_all: true
+					id: "29E1EFD90C5C54AB"
+					table_id: 4343860119156737535L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_commander_mars_2"
@@ -761,11 +977,19 @@
 		{
 			dependencies: ["13FDC88F09F96D0F"]
 			id: "7F124EAE153EFE7F"
-			rewards: [{
-				id: "1B326894EE808F0A"
-				type: "xp_levels"
-				xp_levels: 15
-			}]
+			rewards: [
+				{
+					id: "1B326894EE808F0A"
+					type: "xp_levels"
+					xp_levels: 15
+				}
+				{
+					exclude_from_claim_all: true
+					id: "5F1B9DAA8B62E26A"
+					table_id: 5251522704765682901L
+					type: "random"
+				}
+			]
 			size: 1.25d
 			tasks: [{
 				advancement: "rctmod:trainers/defeat_champion_cynthia_3"

@@ -1,0 +1,11 @@
+name = "NeoAuth"
+filename = "NeoAuth-1.21.1-1.0.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7069/504/NeoAuth-1.21.1-1.0.1.jar"
+hash-format = "sha1"
+hash = "1eeb2aad79e2d9bac1b1d793768eb0d3483358fe"
+[update.curseforge]
+project-id = 1140741
+file-id = 7069504

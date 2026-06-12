@@ -1,0 +1,11 @@
+name = "Powah! (Rearchitected)"
+filename = "Powah-6.2.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8011/715/Powah-6.2.10.jar"
+hash-format = "sha1"
+hash = "f134ab3e0ace3793abf93129e318eb817898a4e1"
+[update.curseforge]
+project-id = 633483
+file-id = 8011715

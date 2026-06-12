@@ -1,0 +1,11 @@
+name = "Allthemodium"
+filename = "allthemodium-3.0.1_mc_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7974/403/allthemodium-3.0.1_mc_1.21.1.jar"
+hash-format = "sha1"
+hash = "1abb27a2bcbd2b51399300096cff3faf9d7589ac"
+[update.curseforge]
+project-id = 364466
+file-id = 7974403

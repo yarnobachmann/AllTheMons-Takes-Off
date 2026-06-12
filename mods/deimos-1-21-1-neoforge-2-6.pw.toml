@@ -1,0 +1,11 @@
+name = "Deimos Lib"
+filename = "deimos-1.21.1-neoforge-2.6.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7955/871/deimos-1.21.1-neoforge-2.6.jar"
+hash-format = "sha1"
+hash = "64ec9356f61462bb4af326750870341450bd9404"
+[update.curseforge]
+project-id = 1158094
+file-id = 7955871

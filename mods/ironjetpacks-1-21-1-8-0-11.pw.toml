@@ -1,12 +1,11 @@
-name = "IronJetpacks-1.21.1-8.0.11.jar"
+name = "Iron Jetpacks"
 filename = "IronJetpacks-1.21.1-8.0.11.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/DWIEOniQ/versions/Dag6lNGT/IronJetpacks-1.21.1-8.0.11.jar"
-hash-format = "sha512"
-hash = "944821c20be19c2e55262f606de392ce491ab4998fe3469030fb00fc95d47f3e1c87389c4f132c1accbbc2774692b90dbeae3c168c0301d3f4b52b7a2658705a"
-
-[update.modrinth]
-mod-id = "DWIEOniQ"
-version = "Dag6lNGT"
+url = "https://edge.forgecdn.net/files/7105/279/IronJetpacks-1.21.1-8.0.11.jar"
+hash-format = "sha1"
+hash = "96bdaf7fa57b73a3c157edfc5d1afbfc2e23a65d"
+[update.curseforge]
+project-id = 284497
+file-id = 7105279

@@ -1,12 +1,11 @@
-name = "Multiplayer Hotfix & Mewtwo Model Swap"
+name = "Cobblemon Journey Mounts"
 filename = "cobblemon-journey-mounts-1.7.2.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Vn5WCYr6/versions/RKZyNI1R/cobblemon-journey-mounts-1.7.2.jar"
-hash-format = "sha512"
-hash = "cced2b3ef034e3f57c3e4271b64f5fd776ac7b56329b400018d7ca9b99c5e44c11a76acf2283c2bb3bb1eef40a9be9fb9eb360de0f7e48842689c69fa107005b"
-
-[update.modrinth]
-mod-id = "Vn5WCYr6"
-version = "RKZyNI1R"
+url = "https://edge.forgecdn.net/files/7516/317/cobblemon-journey-mounts-1.7.2.jar"
+hash-format = "sha1"
+hash = "e9934906ef119dc7ab1001f72d4e7b23c2f73220"
+[update.curseforge]
+project-id = 1401442
+file-id = 7516317

@@ -1,12 +1,11 @@
-name = "v0.7.1 NeoForge"
+name = "Cobblemon PokÃ©pedia: Cobblepedia"
 filename = "Cobblepedia-NeoForge-0.7.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/2obPz7jf/versions/dEMwrap5/Cobblepedia-NeoForge-0.7.1.jar"
-hash-format = "sha512"
-hash = "88b495955158593b5fe94a8feb08ea4049738c5fd45e4035e3b9afde8b44310bc5d1ffff5dfe50915b4851d5b1d4d5863459fae23a31b8e596480a4e88079a73"
-
-[update.modrinth]
-mod-id = "2obPz7jf"
-version = "dEMwrap5"
+url = "https://edge.forgecdn.net/files/7272/42/Cobblepedia-NeoForge-0.7.1.jar"
+hash-format = "sha1"
+hash = "c5f15ee58c16c7c54c505ec8f005449f3f145f7d"
+[update.curseforge]
+project-id = 850946
+file-id = 7272042

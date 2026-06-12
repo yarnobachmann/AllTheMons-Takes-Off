@@ -1,0 +1,11 @@
+name = "RFTools Utility"
+filename = "rftoolsutility-1.21-7.0.11.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7745/889/rftoolsutility-1.21-7.0.11.jar"
+hash-format = "sha1"
+hash = "c3a619f70429e2c0849b6f9cf8cb76cc152efea3"
+[update.curseforge]
+project-id = 342466
+file-id = 7745889

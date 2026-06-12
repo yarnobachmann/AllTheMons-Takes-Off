@@ -1,0 +1,11 @@
+name = "FTB Teams (NeoForge)"
+filename = "ftb-teams-neoforge-2101.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7878/281/ftb-teams-neoforge-2101.1.10.jar"
+hash-format = "sha1"
+hash = "363376ae0fb22cb0527170fdf6a066d1da9b0225"
+[update.curseforge]
+project-id = 404468
+file-id = 7878281

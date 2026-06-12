@@ -1,12 +1,11 @@
-name = "v2025.12.23"
+name = "Rebind Narrator"
 filename = "rebind_narrator-1.21.1-neoforge-2025.12.23.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/qw2Ls89j/versions/1NFNo8eh/rebind_narrator-1.21.1-neoforge-2025.12.23.jar"
-hash-format = "sha512"
-hash = "14093319e22761686c7491776e0dc9952610134e3b3937fe4c987165f24bc063dbb1d7bcdf1f728b9b372c6982dd78c81ec1115c9dbd06b6e6ee8a565ad5d619"
-
-[update.modrinth]
-mod-id = "qw2Ls89j"
-version = "1NFNo8eh"
+url = "https://edge.forgecdn.net/files/7370/951/rebind_narrator-1.21.1-neoforge-2025.12.23.jar"
+hash-format = "sha1"
+hash = "3e28da451f5d7eecb35d195fb08bfe4d7f9022ec"
+[update.curseforge]
+project-id = 296996
+file-id = 7370951

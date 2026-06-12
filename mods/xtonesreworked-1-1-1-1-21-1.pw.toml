@@ -1,0 +1,11 @@
+name = "Xtones Reworked"
+filename = "xtonesreworked-1.1.1-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7032/490/xtonesreworked-1.1.1-1.21.1.jar"
+hash-format = "sha1"
+hash = "2daa001d39b43ba379991b944e022ab365c74cfd"
+[update.curseforge]
+project-id = 694231
+file-id = 7032490

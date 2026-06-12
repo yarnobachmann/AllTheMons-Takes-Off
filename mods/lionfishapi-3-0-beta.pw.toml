@@ -1,0 +1,11 @@
+name = "Lionfish API"
+filename = "lionfishapi-3.0-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8094/835/lionfishapi-3.0-beta.jar"
+hash-format = "sha1"
+hash = "0bcbc7d9674f3152414648e041a488cc875a4853"
+[update.curseforge]
+project-id = 1001614
+file-id = 8094835
