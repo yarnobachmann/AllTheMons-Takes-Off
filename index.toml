@@ -25701,8 +25701,8 @@ hash = "1255770b920b252a13f725a6b46f92f8fdcfcd7f8eb0e18eeb9d7822e45a7d73"
 metafile = true
 
 [[files]]
-file = "mods/voxy-0.2.9-alpha.jar"
-hash = "b12d44a2a8a3fcf699afe2b7c108a70f06b050abbae73f1841287621d132bcd9"
+file = "mods/voxy-0.2.10-alpha.jar"
+hash = "d0a8c1b1a3a72725a677cf33e6ccd1a5043345dd899af464f6eddc2abf4de920"
 metafile = false
 
 [[files]]
