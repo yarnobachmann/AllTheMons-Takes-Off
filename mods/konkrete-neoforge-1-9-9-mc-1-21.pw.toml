@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5453/385/konkrete_neoforge_1.9.9_MC_1.21.jar"
 hash-format = "sha1"
 hash = "97771eb287d5ac7fe667d1df9493d5e54c8ca1fa"
+
 [update.curseforge]
 project-id = 410295
 file-id = 5453385

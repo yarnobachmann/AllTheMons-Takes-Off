@@ -1,0 +1,12 @@
+name = "Waystones"
+filename = "waystones-neoforge-1.21.1-21.1.34.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8163/145/waystones-neoforge-1.21.1-21.1.34.jar"
+hash-format = "sha1"
+hash = "6261985211f6484e0427e2de1a10e2f6f8dda1fa"
+
+[update.curseforge]
+project-id = 245755
+file-id = 8163145

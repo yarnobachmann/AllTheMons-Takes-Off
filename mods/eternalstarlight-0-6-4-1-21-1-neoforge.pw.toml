@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7545/975/eternalstarlight-0.6.4%2b1.21.1%2bneoforge.jar"
 hash-format = "sha1"
 hash = "4510bb18360719c85b92a16406c96bcda3f8c99e"
+
 [update.curseforge]
 project-id = 1080592
 file-id = 7545975

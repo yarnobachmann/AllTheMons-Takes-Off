@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7956/82/ars_elemancy-1.21.1-1.17.jar"
 hash-format = "sha1"
 hash = "58d23540e87bf147047b6596c9768e7b88bbb290"
+
 [update.curseforge]
 project-id = 1153666
 file-id = 7956082

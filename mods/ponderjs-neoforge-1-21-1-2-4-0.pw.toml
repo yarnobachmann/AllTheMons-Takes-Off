@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7436/813/ponderjs-neoforge-1.21.1-2.4.0.jar"
 hash-format = "sha1"
 hash = "9c35c5c31a613d58fc06e591e455bccfc3de6022"
+
 [update.curseforge]
 project-id = 622888
 file-id = 7436813

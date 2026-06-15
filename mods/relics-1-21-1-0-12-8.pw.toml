@@ -1,0 +1,12 @@
+name = "Relics"
+filename = "relics-1.21.1-0.12.8.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8158/315/relics-1.21.1-0.12.8.jar"
+hash-format = "sha1"
+hash = "1fe7d57ebfa56ebd0aeecfed01075f8b55b94ef7"
+
+[update.curseforge]
+project-id = 445274
+file-id = 8158315

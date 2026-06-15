@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6153/780/cleanswing-1.9.jar"
 hash-format = "sha1"
 hash = "c4746d331a9a73158da1c330f0d46ce8714ce5d8"
+
 [update.curseforge]
 project-id = 915308
 file-id = 6153780

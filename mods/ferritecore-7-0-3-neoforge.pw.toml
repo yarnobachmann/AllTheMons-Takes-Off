@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7524/151/ferritecore-7.0.3-neoforge.jar"
 hash-format = "sha1"
 hash = "9563692efb708b6b568df27a01ec52f6311928ef"
+
 [update.curseforge]
 project-id = 429235
 file-id = 7524151

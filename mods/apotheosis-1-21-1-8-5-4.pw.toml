@@ -1,0 +1,12 @@
+name = "Apotheosis"
+filename = "Apotheosis-1.21.1-8.5.4.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8182/695/Apotheosis-1.21.1-8.5.4.jar"
+hash-format = "sha1"
+hash = "24c28cdf26514148a92f7b8c620ec54a2cd2c9ca"
+
+[update.curseforge]
+project-id = 313970
+file-id = 8182695

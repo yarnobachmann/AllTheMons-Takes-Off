@@ -1,0 +1,12 @@
+name = "Oritech"
+filename = "oritech-neoforge-1.21.1-1.2.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8211/754/oritech-neoforge-1.21.1-1.2.7.jar"
+hash-format = "sha1"
+hash = "ed8f4f3c49c5ac42f34fa8d52d7038c1eca13688"
+
+[update.curseforge]
+project-id = 1030830
+file-id = 8211754

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6266/334/factory_blocks-neoforge-1.4.0%2bmc1.21.1.jar"
 hash-format = "sha1"
 hash = "51fa93c3b0978f4f7e3b801bea6822ec72522e50"
+
 [update.curseforge]
 project-id = 640001
 file-id = 6266334

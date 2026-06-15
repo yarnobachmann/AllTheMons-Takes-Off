@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7849/217/AdvancedAE-1.6.11-1.21.1.jar"
 hash-format = "sha1"
 hash = "0af8033f7291b9f5062b229053e16b439a906db9"
+
 [update.curseforge]
 project-id = 1084104
 file-id = 7849217

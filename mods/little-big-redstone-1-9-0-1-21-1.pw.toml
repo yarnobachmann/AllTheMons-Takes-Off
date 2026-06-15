@@ -1,0 +1,12 @@
+name = "Little Big Redstone"
+filename = "little-big-redstone-1.9.0-1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8219/884/little-big-redstone-1.9.0-1.21.1.jar"
+hash-format = "sha1"
+hash = "2e4629e0fbb6d6cac4d404b3862801d99ecf3bdd"
+
+[update.curseforge]
+project-id = 1180560
+file-id = 8219884

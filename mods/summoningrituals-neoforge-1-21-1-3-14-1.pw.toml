@@ -1,0 +1,12 @@
+name = "Summoning Rituals"
+filename = "summoningrituals-neoforge-1.21.1-3.14.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8147/571/summoningrituals-neoforge-1.21.1-3.14.1.jar"
+hash-format = "sha1"
+hash = "46be5d71496757c50c3e229eac942c6b28be7ed7"
+
+[update.curseforge]
+project-id = 671040
+file-id = 8147571

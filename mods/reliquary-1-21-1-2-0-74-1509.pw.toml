@@ -1,0 +1,12 @@
+name = "Reliquary Reincarnations"
+filename = "reliquary-1.21.1-2.0.74.1509.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8223/715/reliquary-1.21.1-2.0.74.1509.jar"
+hash-format = "sha1"
+hash = "070cc71604e89ebd2c651cb4169cc2aec7f6594d"
+
+[update.curseforge]
+project-id = 241319
+file-id = 8223715

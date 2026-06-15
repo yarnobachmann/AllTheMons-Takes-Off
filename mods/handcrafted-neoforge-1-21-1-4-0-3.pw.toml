@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6330/30/handcrafted-neoforge-1.21.1-4.0.3.jar"
 hash-format = "sha1"
 hash = "8ecd27f1d66f9b742cfae3c8ffa773765f574b52"
+
 [update.curseforge]
 project-id = 538214
 file-id = 6330030

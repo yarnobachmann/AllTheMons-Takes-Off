@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7952/693/create_bic_bit-1.0.2C.jar"
 hash-format = "sha1"
 hash = "7dfe3dc14f3a467e37ca8a2e64038fd6379b1988"
+
 [update.curseforge]
 project-id = 918751
 file-id = 7952693

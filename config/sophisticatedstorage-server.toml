@@ -1,8 +1,8 @@
 #Server Settings
 [server]
 	#Limit of maximum number of upgrades of type per storage in format of "StorageType|UpgradeRegistryName[or UpgradeGroup]|MaxNumber"
-	maxUpgradesPerStorage = ["shulker_box|stack_upgrades|2", "shulker_box|furnace_upgrades|1", "shulker_box|jukebox_upgrades|1", "chest|stack_upgrades|2", "chest|furnace_upgrades|1", "chest|jukebox_upgrades|1", "limited_barrel|jukebox_upgrades|1", "limited_barrel|furnace_upgrades|1", "barrel|stack_upgrades|2", "barrel|furnace_upgrades|1", "barrel|jukebox_upgrades|1"]
-	#Threshold of number of item entities dropped from chest / barrel above which break is canceled (unless shift key is pressed) and message is displayed explaining to player many drops and packing tape use
+	maxUpgradesPerStorage = ["barrel|jukebox_upgrades|1", "barrel|stack_upgrades|2", "barrel|furnace_upgrades|1", "shulker_box|jukebox_upgrades|1", "shulker_box|stack_upgrades|2", "shulker_box|furnace_upgrades|1", "chest|jukebox_upgrades|1", "chest|stack_upgrades|2", "chest|furnace_upgrades|1", "limited_barrel|jukebox_upgrades|1", "limited_barrel|furnace_upgrades|1"]
+	#Threshold of item entities dropped from chest / barrel above which breaking is canceled (unless shift is pressed) and a message explains there would be many drops and packing tape should be used
 	# Default: 200
 	# Range: 0 ~ 1000
 	tooManyItemEntityDrops = 200
@@ -476,7 +476,7 @@
 		upgradeSlotCount = 5
 
 	[server.shulkerBoxDisallowedItems]
-		#List of items that are not allowed to be put in shulkerboxes - e.g. "minecraft:bundle"
+		#List of items that are not allowed to be put in shulker boxes - e.g. "minecraft:bundle"
 		disallowedItems = []
 		#Determines if container items (those that override canFitInsideContainerItems to false) are able to fit in shulker boxes
 		containerItemsDisallowed = false
@@ -484,7 +484,7 @@
 	#Stack Upgrade Settings
 	[server.stackUpgrade]
 		#List of items that are not supposed to stack in storage even when stack upgrade is inserted. Item registry names are expected here.
-		nonStackableItems = ["minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]
+		nonStackableItems = ["immersiveengineering:toolbox", "supplementaries:quiver", "minecraft:bundle", "minecraft:shulker_box", "minecraft:white_shulker_box", "minecraft:orange_shulker_box", "minecraft:magenta_shulker_box", "minecraft:light_blue_shulker_box", "minecraft:yellow_shulker_box", "minecraft:lime_shulker_box", "minecraft:pink_shulker_box", "minecraft:gray_shulker_box", "minecraft:light_gray_shulker_box", "minecraft:cyan_shulker_box", "minecraft:purple_shulker_box", "minecraft:blue_shulker_box", "minecraft:brown_shulker_box", "minecraft:green_shulker_box", "minecraft:red_shulker_box", "minecraft:black_shulker_box"]
 
 	#Compacting Upgrade Settings
 	[server.compactingUpgrade]
@@ -774,7 +774,7 @@
 		# Default: 5
 		# Range: 3 ~ 9
 		maxNumberOfSlots = 5
-		#List of items that can be decompressed by compression upgrade and their results. Item registry names are expected here in format of "mod:itemBeingDecompressed=Nxmod:itemDecompressResult
+		#List of items that can be decompressed by compression upgrade and their results. Item registry names are expected here in format of "mod:itemBeingDecompressed=Nxmod:itemDecompressResult"
 		additionalDecompressibleItems = ["minecraft:glowstone=4xminecraft:glowstone_dust", "minecraft:quartz_block=4xminecraft:quartz", "minecraft:clay=4xminecraft:clay_ball", "minecraft:snow_block=4xminecraft:snowball", "minecraft:bricks=4xminecraft:brick", "minecraft:nether_bricks=4xminecraft:nether_brick", "minecraft:nether_wart_block=9xminecraft:nether_wart", "minecraft:melon=9xminecraft:melon_slice", "minecraft:packed_ice=9xminecraft:ice", "minecraft:blue_ice=9xminecraft:packed_ice"]
 
 	#Hopper Upgrade Settings

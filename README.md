@@ -7,7 +7,7 @@ Self-hosted packwiz modpack for installing **All The Mons Takes Off** in Prism L
 Paste this into Prism Launcher's **Add Instance > Import > Link** field:
 
 ```text
-https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/All-The-Mons-Takes-Off-1.0.0-prism.zip
+https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/All-The-Mons-Takes-Off-1.0.0-rc.7-prism.zip
 ```
 
 The pack entry point is:
@@ -20,7 +20,7 @@ https://raw.githubusercontent.com/yarnobachmann/AllTheMons-Takes-Off/main/pack.t
 
 - Minecraft: `1.21.1`
 - Loader: `NeoForge`
-- NeoForge: `21.1.227`
+- NeoForge: `21.1.233`
 - Recommended memory: `8192 MB`
 - Icon: `Modpackimage.png`
 

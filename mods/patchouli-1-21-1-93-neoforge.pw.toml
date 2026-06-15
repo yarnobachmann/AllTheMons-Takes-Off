@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7730/942/Patchouli-1.21.1-93-NEOFORGE.jar"
 hash-format = "sha1"
 hash = "5413bb9b8fc35ebe46b06b48bf9afafbd8471140"
+
 [update.curseforge]
 project-id = 306770
 file-id = 7730942

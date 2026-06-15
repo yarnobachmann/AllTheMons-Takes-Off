@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8090/653/alltheleaks-1.1.9%2b1.21.1-neoforge.jar"
 hash-format = "sha1"
 hash = "2e9d1bc9bb9801af070f59a808db232c2a6526dd"
+
 [update.curseforge]
 project-id = 1091339
 file-id = 8090653

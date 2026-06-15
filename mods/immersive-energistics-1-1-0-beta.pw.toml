@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6131/911/Immersive-Energistics-1.1.0-beta.jar"
 hash-format = "sha1"
 hash = "05aac40c5c9570946db540fabbb702898ca294d4"
+
 [update.curseforge]
 project-id = 992377
 file-id = 6131911

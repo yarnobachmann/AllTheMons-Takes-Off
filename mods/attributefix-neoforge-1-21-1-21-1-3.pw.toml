@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7115/922/attributefix-neoforge-1.21.1-21.1.3.jar"
 hash-format = "sha1"
 hash = "7aae849f6d2a6cb1368227407ea5deb552e100ba"
+
 [update.curseforge]
 project-id = 280510
 file-id = 7115922

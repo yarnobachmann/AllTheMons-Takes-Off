@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6834/323/pocketstorage-1.2.5%2b1.21.1-b3.jar"
 hash-format = "sha1"
 hash = "5240b7df92f0ec542947acf17a0bfc6b10bbe0f3"
+
 [update.curseforge]
 project-id = 367734
 file-id = 6834323

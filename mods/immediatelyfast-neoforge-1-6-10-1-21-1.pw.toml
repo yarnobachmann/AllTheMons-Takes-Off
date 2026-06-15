@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7537/795/ImmediatelyFast-NeoForge-1.6.10%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+
 [update.curseforge]
 project-id = 686911
 file-id = 7537795

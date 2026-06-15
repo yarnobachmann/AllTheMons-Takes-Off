@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5551/798/wirelesschargers-1.0.9a-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "129e88001446f07d8d7c790d169f26814346befb"
+
 [update.curseforge]
 project-id = 510656
 file-id = 5551798

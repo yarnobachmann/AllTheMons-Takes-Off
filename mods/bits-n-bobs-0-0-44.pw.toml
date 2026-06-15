@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7591/460/bits_n_bobs-0.0.44.jar"
 hash-format = "sha1"
 hash = "2d577eb7e47b860fc32e4ebd33405715252c5072"
+
 [update.curseforge]
 project-id = 1398383
 file-id = 7591460

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7988/198/integratedcrafting-1.21.1-neoforge-1.4.6.jar"
 hash-format = "sha1"
 hash = "444e2f7ca21787c415ec318fd6677e97cc2739a3"
+
 [update.curseforge]
 project-id = 287357
 file-id = 7988198

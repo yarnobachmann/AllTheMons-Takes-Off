@@ -1,0 +1,12 @@
+name = "JourneyMap"
+filename = "journeymap-neoforge-1.21.1-6.0.0-beta.83.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8228/2/journeymap-neoforge-1.21.1-6.0.0-beta.83.jar"
+hash-format = "sha1"
+hash = "9a0fd79ffb95e0f3065911a9bfc74bcd9c5207b2"
+
+[update.curseforge]
+project-id = 32274
+file-id = 8228002

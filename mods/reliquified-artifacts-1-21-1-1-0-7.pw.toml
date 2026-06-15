@@ -1,0 +1,12 @@
+name = "Reliquified Artifacts"
+filename = "reliquified_artifacts-1.21.1-1.0.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8215/303/reliquified_artifacts-1.21.1-1.0.7.jar"
+hash-format = "sha1"
+hash = "b05a777e47d17c645aab551a3ccb759340530a51"
+
+[update.curseforge]
+project-id = 1100379
+file-id = 8215303

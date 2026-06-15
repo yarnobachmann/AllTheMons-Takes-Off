@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8089/432/fancymenu_neoforge_3.9.1_MC_1.21.1.jar"
 hash-format = "sha1"
 hash = "7d5be91bdc108df3cce5c68a10af7dd31dfc9e34"
+
 [update.curseforge]
 project-id = 367706
 file-id = 8089432

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7433/366/ars_unification-1.2.18.jar"
 hash-format = "sha1"
 hash = "7e1ed50f6f29dcbf04c08363c5b2174adcb205e4"
+
 [update.curseforge]
 project-id = 1165429
 file-id = 7433366

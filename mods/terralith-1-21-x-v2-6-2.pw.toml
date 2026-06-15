@@ -1,0 +1,12 @@
+name = "Terralith"
+filename = "Terralith_1.21.x_v2.6.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8222/737/Terralith_1.21.x_v2.6.2.jar"
+hash-format = "sha1"
+hash = "d4a9fe71b841f70edfb4b280f9bf5c58e4a28224"
+
+[update.curseforge]
+project-id = 513688
+file-id = 8222737

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6841/545/additional_lights-neoforge-1.21-2.1.10.jar"
 hash-format = "sha1"
 hash = "8dc485146437e8ac40dd29e10747601fd4e372ca"
+
 [update.curseforge]
 project-id = 384991
 file-id = 6841545

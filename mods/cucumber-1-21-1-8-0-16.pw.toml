@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8035/802/Cucumber-1.21.1-8.0.16.jar"
 hash-format = "sha1"
 hash = "0e97553af44d39d1976fe6feb4baf1c30c6b2f06"
+
 [update.curseforge]
 project-id = 272335
 file-id = 8035802

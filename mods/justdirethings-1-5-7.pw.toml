@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7463/40/justdirethings-1.5.7.jar"
 hash-format = "sha1"
 hash = "f0327d7d2f389020063849200a4128ac9dcb52da"
+
 [update.curseforge]
 project-id = 1002348
 file-id = 7463040

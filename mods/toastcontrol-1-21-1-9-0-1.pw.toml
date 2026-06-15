@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6751/464/ToastControl-1.21.1-9.0.1.jar"
 hash-format = "sha1"
 hash = "33477c2db0479c9be33d1ca3b2fa47cf6c97988c"
+
 [update.curseforge]
 project-id = 271740
 file-id = 6751464

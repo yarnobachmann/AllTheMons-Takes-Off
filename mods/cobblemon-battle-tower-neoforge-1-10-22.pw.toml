@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7957/421/cobblemon_battle_tower-neoforge-1.10.22.jar"
 hash-format = "sha1"
 hash = "90a48ce1e827967637763b864705e81f70be21b7"
+
 [update.curseforge]
 project-id = 1441260
 file-id = 7957421

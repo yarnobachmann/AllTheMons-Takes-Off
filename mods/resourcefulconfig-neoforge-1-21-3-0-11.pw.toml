@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6467/772/resourcefulconfig-neoforge-1.21-3.0.11.jar"
 hash-format = "sha1"
 hash = "6bf2b6ea9c071c00a2abcdc552667fb6f7d21031"
+
 [update.curseforge]
 project-id = 714059
 file-id = 6467772

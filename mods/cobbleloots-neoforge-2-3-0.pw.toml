@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7842/375/cobbleloots-neoforge-2.3.0.jar"
 hash-format = "sha1"
 hash = "bf8695af32bb6c47922fa3d33f33ea6420b3314b"
+
 [update.curseforge]
 project-id = 1037611
 file-id = 7842375

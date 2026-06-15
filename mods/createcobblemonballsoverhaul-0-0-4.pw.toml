@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7324/591/createcobblemonballsoverhaul-0.0.4.jar"
 hash-format = "sha1"
 hash = "92f9da9d765ef0e0317bbaac690133b07b6f141e"
+
 [update.curseforge]
 project-id = 1255522
 file-id = 7324591

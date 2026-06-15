@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6299/879/bellsandwhistles-0.4.7-1.21.1.jar"
 hash-format = "sha1"
 hash = "85944080f8bd47dad64a8193a70662cd9ddbb200"
+
 [update.curseforge]
 project-id = 905040
 file-id = 6299879

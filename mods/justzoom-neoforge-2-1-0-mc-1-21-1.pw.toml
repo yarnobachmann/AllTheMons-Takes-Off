@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6290/230/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
 hash-format = "sha1"
 hash = "328da50972fa693b8e6f337d4a9560d4a6170ac3"
+
 [update.curseforge]
 project-id = 561885
 file-id = 6290230

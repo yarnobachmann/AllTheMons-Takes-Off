@@ -1,0 +1,12 @@
+name = "Create Crafts & Additions"
+filename = "createaddition-1.6.0.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8188/476/createaddition-1.6.0.jar"
+hash-format = "sha1"
+hash = "87b539d41ed238e98b26c607c0c81a973323147e"
+
+[update.curseforge]
+project-id = 439890
+file-id = 8188476

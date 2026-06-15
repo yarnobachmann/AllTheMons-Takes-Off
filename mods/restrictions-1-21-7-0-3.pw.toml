@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6009/445/restrictions-1.21-7.0.3.jar"
 hash-format = "sha1"
 hash = "168de074e62aee003f2eac2c15c42b896e1f589d"
+
 [update.curseforge]
 project-id = 282805
 file-id = 6009445

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5587/515/CTM-1.21-1.2.1%2b3.jar"
 hash-format = "sha1"
 hash = "284232c08d3b999f05417761a3efba9b08ba20a7"
+
 [update.curseforge]
 project-id = 267602
 file-id = 5587515

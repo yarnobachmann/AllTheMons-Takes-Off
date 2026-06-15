@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7854/442/appleskin-neoforge-mc1.21-3.0.9.jar"
 hash-format = "sha1"
 hash = "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+
 [update.curseforge]
 project-id = 248787
 file-id = 7854442

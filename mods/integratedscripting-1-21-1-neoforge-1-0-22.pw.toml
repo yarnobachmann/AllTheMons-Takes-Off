@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8097/338/integratedscripting-1.21.1-neoforge-1.0.22.jar"
 hash-format = "sha1"
 hash = "db11756440f332f4a408045da700fb9967fc8999"
+
 [update.curseforge]
 project-id = 889785
 file-id = 8097338

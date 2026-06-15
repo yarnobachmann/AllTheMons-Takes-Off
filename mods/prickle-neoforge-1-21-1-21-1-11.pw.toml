@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6961/457/prickle-neoforge-1.21.1-21.1.11.jar"
 hash-format = "sha1"
 hash = "5174059ecf97340a0de5ef211b938de26c4eaa36"
+
 [update.curseforge]
 project-id = 1023259
 file-id = 6961457

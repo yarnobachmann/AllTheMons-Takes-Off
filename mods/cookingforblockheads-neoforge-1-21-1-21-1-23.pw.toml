@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8056/595/cookingforblockheads-neoforge-1.21.1-21.1.23.jar"
 hash-format = "sha1"
 hash = "2718f450133d921bb8e7772e3e009efe23acc20d"
+
 [update.curseforge]
 project-id = 231484
 file-id = 8056595

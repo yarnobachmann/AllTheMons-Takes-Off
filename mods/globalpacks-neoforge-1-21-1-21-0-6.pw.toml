@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6634/585/globalpacks-neoforge-1.21.1-21.0.6.jar"
 hash-format = "sha1"
 hash = "55cf667b16b81df9b8f7fead042cf2f732b21b85"
+
 [update.curseforge]
 project-id = 317134
 file-id = 6634585

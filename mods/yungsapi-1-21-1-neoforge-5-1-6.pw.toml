@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6715/463/YungsApi-1.21.1-NeoForge-5.1.6.jar"
 hash-format = "sha1"
 hash = "e1c394779fb9e038e4f7a1b4558d0432607d263b"
+
 [update.curseforge]
 project-id = 1015100
 file-id = 6715463

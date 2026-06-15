@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7802/27/MysticalAgradditions-1.21.1-8.0.13.jar"
 hash-format = "sha1"
 hash = "19bcd0011e8ab46de3093672bf2704fbb5443cfe"
+
 [update.curseforge]
 project-id = 256247
 file-id = 7802027

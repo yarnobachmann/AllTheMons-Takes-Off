@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7765/20/wild_battle_api-neoforge-1.1.2.jar"
 hash-format = "sha1"
 hash = "422e07b9748a6168b15d9fb5e3ccc6d8ac8df981"
+
 [update.curseforge]
 project-id = 1478863
 file-id = 7765020

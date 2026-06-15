@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6775/278/getittogetherdrops-neoforge-1.21.5-1.4.jar"
 hash-format = "sha1"
 hash = "ead940a50f69313802960c497e252acd3956334f"
+
 [update.curseforge]
 project-id = 411045
 file-id = 6775278

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5537/850/overloadedarmorbar-neoforge-1.21-2.jar"
 hash-format = "sha1"
 hash = "250b3f1a34bcaee383545761f102834475e86819"
+
 [update.curseforge]
 project-id = 314002
 file-id = 5537850

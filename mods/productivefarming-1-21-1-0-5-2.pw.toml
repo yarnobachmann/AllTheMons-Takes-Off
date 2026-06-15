@@ -1,0 +1,12 @@
+name = "Productive Farming"
+filename = "productivefarming-1.21.1-0.5.2.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/7612/556/productivefarming-1.21.1-0.5.2.jar"
+hash-format = "sha1"
+hash = "8277bd447b89589c54eea1a91c76a689dcbecf12"
+
+[update.curseforge]
+project-id = 944463
+file-id = 7612556

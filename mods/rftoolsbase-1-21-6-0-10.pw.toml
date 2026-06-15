@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7263/404/rftoolsbase-1.21-6.0.10.jar"
 hash-format = "sha1"
 hash = "5c801c592a97ad7a4a0c33f186881d719eb06b9c"
+
 [update.curseforge]
 project-id = 326041
 file-id = 7263404

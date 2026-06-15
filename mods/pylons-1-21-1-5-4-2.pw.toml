@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7589/396/pylons-1.21.1-5.4.2.jar"
 hash-format = "sha1"
 hash = "7a17b8fda2557c9466bc871403ba3b6ea5990e58"
+
 [update.curseforge]
 project-id = 518211
 file-id = 7589396

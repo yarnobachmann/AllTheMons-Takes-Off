@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7705/470/experiencelib-1.21.1-1.2.1.jar"
 hash-format = "sha1"
 hash = "82a964a6a68519ade986760e964bb3309933671a"
+
 [update.curseforge]
 project-id = 1156551
 file-id = 7705470

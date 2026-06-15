@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5786/327/architectury-13.0.8-neoforge.jar"
 hash-format = "sha1"
 hash = "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+
 [update.curseforge]
 project-id = 419699
 file-id = 5786327

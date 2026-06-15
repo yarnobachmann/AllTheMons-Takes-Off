@@ -1,0 +1,12 @@
+name = "Cupboard"
+filename = "cupboard-1.21-3.7.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8217/735/cupboard-1.21-3.7.jar"
+hash-format = "sha1"
+hash = "428c992f2c01bb84f3da14db244728695117b0a0"
+
+[update.curseforge]
+project-id = 326652
+file-id = 8217735

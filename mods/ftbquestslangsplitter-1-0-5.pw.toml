@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6975/768/ftbquestslangsplitter-1.0.5.jar"
 hash-format = "sha1"
 hash = "74652f1f845c7a31f12b50163164eba06beebbd7"
+
 [update.curseforge]
 project-id = 1326856
 file-id = 6975768

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6194/54/shrink-2.0.1.47-neoforge.jar"
 hash-format = "sha1"
 hash = "17407b525c0c70a0f6f03a08024a14058f645d01"
+
 [update.curseforge]
 project-id = 426386
 file-id = 6194054

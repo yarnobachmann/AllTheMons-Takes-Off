@@ -2,12 +2,12 @@
 dist/prism-staging/
 .reference-season3/
 
-# These are represented by generated mods/*.pw.toml files when matched on CurseForge/Modrinth.
+# These are represented by generated mods/*.pw.toml files when matched on CurseForge.
 mods/.connector/
 mods/**/*.jar
 mods/*.jar
 
-# Local-only jars that cannot be resolved to an external download are added below.
+# Local/custom jars that are intentionally bundled.
 !mods/ars_janky_me_source_jar_compat-0.1.0.jar
 !mods/CNB-1.21.1-neoforge-1.7.17.jar
 !mods/minecells-2.0.3.jar

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7429/11/ftb-filter-system-neoforge-21.1.4.jar"
 hash-format = "sha1"
 hash = "a48e54edeacc59aaba29a1b627799c052112ee0b"
+
 [update.curseforge]
 project-id = 943925
 file-id = 7429011

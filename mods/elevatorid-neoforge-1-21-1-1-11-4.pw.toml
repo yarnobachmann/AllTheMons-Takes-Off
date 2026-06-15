@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6199/696/elevatorid-neoforge-1.21.1-1.11.4.jar"
 hash-format = "sha1"
 hash = "87a5504efcd51de55cd4215a103cbfcf717fa022"
+
 [update.curseforge]
 project-id = 250832
 file-id = 6199696

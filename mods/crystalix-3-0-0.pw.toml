@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7824/153/crystalix-3.0.0.jar"
 hash-format = "sha1"
 hash = "b2e75acbbf2f86b88573e89d073533d63c9fc298"
+
 [update.curseforge]
 project-id = 1187033
 file-id = 7824153

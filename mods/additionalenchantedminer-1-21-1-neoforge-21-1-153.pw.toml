@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8008/305/AdditionalEnchantedMiner-1.21.1-neoforge-21.1.153.jar"
 hash-format = "sha1"
 hash = "52caa75215b244871e274152fb2174320287ca72"
+
 [update.curseforge]
 project-id = 282837
 file-id = 8008305

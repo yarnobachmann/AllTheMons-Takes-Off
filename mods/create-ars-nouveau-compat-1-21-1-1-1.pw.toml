@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6973/534/create_ars_nouveau_compat-1.21.1-1.1.jar"
 hash-format = "sha1"
 hash = "1210c5a2584c248ffe487a511f763db0646d74d4"
+
 [update.curseforge]
 project-id = 1285569
 file-id = 6973534

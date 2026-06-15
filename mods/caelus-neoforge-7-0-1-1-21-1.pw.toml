@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5694/215/caelus-neoforge-7.0.1%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "e4c2e1af4e3082d68f7df75f7c8ce30116d71515"
+
 [update.curseforge]
 project-id = 308989
 file-id = 5694215

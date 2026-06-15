@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7940/651/cobblenav-neoforge-2.3.3.jar"
 hash-format = "sha1"
 hash = "329349ecd8dd08130d967a4706374571cf193119"
+
 [update.curseforge]
 project-id = 976014
 file-id = 7940651

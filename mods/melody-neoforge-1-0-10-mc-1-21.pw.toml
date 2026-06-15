@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5453/382/melody_neoforge_1.0.10_MC_1.21.jar"
 hash-format = "sha1"
 hash = "e83052a92c4ca0016bcfe7f0207273983dc84698"
+
 [update.curseforge]
 project-id = 938643
 file-id = 5453382

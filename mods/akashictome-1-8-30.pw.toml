@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7773/841/AkashicTome-1.8-30.jar"
 hash-format = "sha1"
 hash = "6493e575f295e18fac1f7c5399c05c53caa1f7ce"
+
 [update.curseforge]
 project-id = 250577
 file-id = 7773841

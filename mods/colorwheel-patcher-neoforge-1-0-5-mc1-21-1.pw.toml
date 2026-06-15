@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7924/942/colorwheel_patcher-neoforge-1.0.5%2bmc1.21.1.jar"
 hash-format = "sha1"
 hash = "0e63780e5b8af294bf58609ac866b9866ab9537b"
+
 [update.curseforge]
 project-id = 1285475
 file-id = 7924942

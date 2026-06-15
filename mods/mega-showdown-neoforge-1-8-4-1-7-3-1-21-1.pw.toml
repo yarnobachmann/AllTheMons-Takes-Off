@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8102/863/mega_showdown-neoforge-1.8.4%2b1.7.3%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "60efa7de89d832ba7a80c9320fe89376a5d47089"
+
 [update.curseforge]
 project-id = 1189523
 file-id = 8102863

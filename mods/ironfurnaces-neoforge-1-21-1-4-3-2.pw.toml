@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7034/259/ironfurnaces-neoforge-1.21.1-4.3.2.jar"
 hash-format = "sha1"
 hash = "9a40f949ec9794cdef79bdabb61a12a918613194"
+
 [update.curseforge]
 project-id = 237664
 file-id = 7034259

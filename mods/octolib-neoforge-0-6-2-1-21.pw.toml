@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8040/848/OctoLib-NEOFORGE-0.6.2%2b1.21.jar"
 hash-format = "sha1"
 hash = "f4f66d677b104c6af7f5c0f7e3c08d8e4370ecad"
+
 [update.curseforge]
 project-id = 916747
 file-id = 8040848

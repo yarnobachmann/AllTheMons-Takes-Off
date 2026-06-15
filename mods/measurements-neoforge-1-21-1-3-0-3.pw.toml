@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6956/811/Measurements-neoforge-1.21.1-3.0.3.jar"
 hash-format = "sha1"
 hash = "4c415df21ffe02b6619c204b84d20dbe94b5f3b1"
+
 [update.curseforge]
 project-id = 478559
 file-id = 6956811

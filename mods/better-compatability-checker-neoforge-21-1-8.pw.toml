@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7404/415/better-compatability-checker-neoforge-21.1.8.jar"
 hash-format = "sha1"
 hash = "186ba3fbacacb0ce93b9c5a5ddca28799c1577cb"
+
 [update.curseforge]
 project-id = 551894
 file-id = 7404415

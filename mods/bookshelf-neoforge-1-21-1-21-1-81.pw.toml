@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7606/240/bookshelf-neoforge-1.21.1-21.1.81.jar"
 hash-format = "sha1"
 hash = "efc4cda6da4dd879f24d057ed0a6413764c9ba40"
+
 [update.curseforge]
 project-id = 228525
 file-id = 7606240

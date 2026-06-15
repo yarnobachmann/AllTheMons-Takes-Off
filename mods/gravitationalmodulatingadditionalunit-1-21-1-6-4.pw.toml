@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6895/172/GravitationalModulatingAdditionalUnit-1.21.1-6.4.jar"
 hash-format = "sha1"
 hash = "244d8b57aa7d34e247f3dd09cacf647a9ba1cfab"
+
 [update.curseforge]
 project-id = 656136
 file-id = 6895172

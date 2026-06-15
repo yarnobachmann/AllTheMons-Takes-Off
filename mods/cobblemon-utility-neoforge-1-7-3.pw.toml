@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7595/668/Cobblemon-Utility%2b-neoforge-1.7.3.jar"
 hash-format = "sha1"
 hash = "c234d05b77b3184ed49c25733b084513501911f7"
+
 [update.curseforge]
 project-id = 1205589
 file-id = 7595668

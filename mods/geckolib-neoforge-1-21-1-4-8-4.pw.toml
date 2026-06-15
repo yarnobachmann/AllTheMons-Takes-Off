@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7707/149/geckolib-neoforge-1.21.1-4.8.4.jar"
 hash-format = "sha1"
 hash = "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+
 [update.curseforge]
 project-id = 388172
 file-id = 7707149

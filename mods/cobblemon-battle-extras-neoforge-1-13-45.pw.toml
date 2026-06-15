@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7968/869/cobblemon-battle-extras-neoforge-1.13.45.jar"
 hash-format = "sha1"
 hash = "eb446be193bdd4981d16c86bb40410be3f0cb693"
+
 [update.curseforge]
 project-id = 1396525
 file-id = 7968869

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7436/830/simple_weather-1.0.13-hotfix.jar"
 hash-format = "sha1"
 hash = "45ee8e8bb49c599bb3d7db7cdf6c91f90d13bb0c"
+
 [update.curseforge]
 project-id = 983390
 file-id = 7436830

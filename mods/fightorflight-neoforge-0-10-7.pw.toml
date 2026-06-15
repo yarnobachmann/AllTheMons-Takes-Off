@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7633/837/fightorflight-neoforge-0.10.7.jar"
 hash-format = "sha1"
 hash = "f4f468a3e88ab22e4fd36d78cfbc6223a2277332"
+
 [update.curseforge]
 project-id = 1168140
 file-id = 7633837

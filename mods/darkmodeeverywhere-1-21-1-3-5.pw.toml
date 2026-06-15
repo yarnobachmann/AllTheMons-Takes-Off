@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6470/153/darkmodeeverywhere-1.21-1.3.5.jar"
 hash-format = "sha1"
 hash = "db5a7066cf14dbd1867c1afe6c91a6041009c8c2"
+
 [update.curseforge]
 project-id = 574123
 file-id = 6470153

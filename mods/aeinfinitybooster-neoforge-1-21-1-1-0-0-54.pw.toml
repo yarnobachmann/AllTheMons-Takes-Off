@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7402/808/aeinfinitybooster-neoforge-1.21.1-1.0.0.54.jar"
 hash-format = "sha1"
 hash = "d00daf281a852358022b936a21ae272578f00afd"
+
 [update.curseforge]
 project-id = 559313
 file-id = 7402808

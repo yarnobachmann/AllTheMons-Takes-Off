@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7515/858/comforts-neoforge-9.0.5%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "21d6bee3821d62fe3356c51fb1d697871a3087ff"
+
 [update.curseforge]
 project-id = 276951
 file-id = 7515858

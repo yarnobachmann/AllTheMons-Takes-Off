@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7666/340/MysticalCustomization-1.21.1-6.0.2.jar"
 hash-format = "sha1"
 hash = "483c44e51b8f4c8dd24c239f945a819da766d219"
+
 [update.curseforge]
 project-id = 280441
 file-id = 7666340

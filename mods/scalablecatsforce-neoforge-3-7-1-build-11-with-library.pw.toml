@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6737/240/ScalableCatsForce-NeoForge-3.7.1-build-11-with-library.jar"
 hash-format = "sha1"
 hash = "b96d133a016dde480458d6102d66353c7eeacf6a"
+
 [update.curseforge]
 project-id = 320926
 file-id = 6737240

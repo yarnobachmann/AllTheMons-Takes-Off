@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7904/58/Mekanism-1.21.1-10.7.19.85.jar"
 hash-format = "sha1"
 hash = "b78945c40cfe7640408f3fd1e44da385a8c8b805"
+
 [update.curseforge]
 project-id = 268560
 file-id = 7904058

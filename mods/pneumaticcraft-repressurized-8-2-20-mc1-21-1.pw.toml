@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8062/194/pneumaticcraft-repressurized-8.2.20%2bmc1.21.1.jar"
 hash-format = "sha1"
 hash = "19b3bdb7f2aa135b1d638ba2195968c443889ce5"
+
 [update.curseforge]
 project-id = 281849
 file-id = 8062194

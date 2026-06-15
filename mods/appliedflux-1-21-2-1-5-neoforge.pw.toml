@@ -1,0 +1,12 @@
+name = "Applied Flux"
+filename = "AppliedFlux-1.21-2.1.5-neoforge.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8204/513/AppliedFlux-1.21-2.1.5-neoforge.jar"
+hash-format = "sha1"
+hash = "a98eeadf414e6b3f6878324a3fbdee3fa5fcdadf"
+
+[update.curseforge]
+project-id = 965012
+file-id = 8204513

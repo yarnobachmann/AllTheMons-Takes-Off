@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6824/615/Design-n-Decor-1.21.1-2.1.0.jar"
 hash-format = "sha1"
 hash = "6ff962a9c2e9cc9abdc6de0b01f834839ce7fed1"
+
 [update.curseforge]
 project-id = 923238
 file-id = 6824615

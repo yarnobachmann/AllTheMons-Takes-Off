@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6751/495/HostileNeuralNetworks-1.21.1-6.3.0.jar"
 hash-format = "sha1"
 hash = "7e026e8d78bb40bc52ff0857d25ebb5b1a05714b"
+
 [update.curseforge]
 project-id = 552574
 file-id = 6751495

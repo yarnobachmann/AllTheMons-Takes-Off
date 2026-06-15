@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7370/951/rebind_narrator-1.21.1-neoforge-2025.12.23.jar"
 hash-format = "sha1"
 hash = "3e28da451f5d7eecb35d195fb08bfe4d7f9022ec"
+
 [update.curseforge]
 project-id = 296996
 file-id = 7370951

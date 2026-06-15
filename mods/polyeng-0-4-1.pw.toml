@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5545/923/polyeng-0.4.1.jar"
 hash-format = "sha1"
 hash = "4add4d9e854807ed2b10c0cabf972244f862b21f"
+
 [update.curseforge]
 project-id = 941096
 file-id = 5545923

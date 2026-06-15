@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6102/752/redstonepen-1.21-neoforge-1.11.42.jar"
 hash-format = "sha1"
 hash = "4c9a706061c0e303a02431905a4fbb63c28d14be"
+
 [update.curseforge]
 project-id = 461710
 file-id = 6102752

@@ -1,0 +1,12 @@
+name = "Botany Pots"
+filename = "botanypots-neoforge-1.21.1-21.1.44.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8243/851/botanypots-neoforge-1.21.1-21.1.44.jar"
+hash-format = "sha1"
+hash = "fcb58dfa5f52819c85da40025fa50d0ddccbbb47"
+
+[update.curseforge]
+project-id = 353928
+file-id = 8243851

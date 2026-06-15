@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5891/67/trashcans-1.0.18c-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "8e853e0784b01b36b4503ef5599be2724be74b07"
+
 [update.curseforge]
 project-id = 394535
 file-id = 5891067

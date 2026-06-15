@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6316/527/simplemagnets-1.1.12c-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "abba7efcee3ae31bd3512147053279422e866ebf"
+
 [update.curseforge]
 project-id = 394140
 file-id = 6316527

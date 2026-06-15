@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6266/285/chisel-neoforge-2.0.0%2bmc1.21.1.jar"
 hash-format = "sha1"
 hash = "44e432ddc1f6fa9cf05201a9aef3ae4c5784cc9d"
+
 [update.curseforge]
 project-id = 551763
 file-id = 6266285

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7882/625/cobblemon_ultra_wormholes-neoforge-1.1.1.jar"
 hash-format = "sha1"
 hash = "03fd8618057a7d775168539fd2b4cf7dec7b43bb"
+
 [update.curseforge]
 project-id = 1487245
 file-id = 7882625

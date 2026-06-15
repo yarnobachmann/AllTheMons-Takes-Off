@@ -1,0 +1,12 @@
+name = "Sophisticated Storage in Motion"
+filename = "sophisticatedstorageinmotion-1.21.1-0.10.30.276.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8220/288/sophisticatedstorageinmotion-1.21.1-0.10.30.276.jar"
+hash-format = "sha1"
+hash = "29ebd1dc14ff5a8a7e6286a18e4c6d06b18502d3"
+
+[update.curseforge]
+project-id = 1166930
+file-id = 8220288

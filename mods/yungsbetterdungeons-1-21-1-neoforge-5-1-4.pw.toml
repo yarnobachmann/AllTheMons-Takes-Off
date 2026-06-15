@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5954/804/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar"
 hash-format = "sha1"
 hash = "73a660c13063450e555e5e2c015ae24d606b32b4"
+
 [update.curseforge]
 project-id = 1015112
 file-id = 5954804

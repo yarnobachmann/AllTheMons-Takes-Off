@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7534/518/ars_controle-1.21.1-1.6.15.jar"
 hash-format = "sha1"
 hash = "fdf381d5733698abe336354c7541299ab495ecae"
+
 [update.curseforge]
 project-id = 1061812
 file-id = 7534518

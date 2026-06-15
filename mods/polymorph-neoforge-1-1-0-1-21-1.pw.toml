@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6794/589/polymorph-neoforge-1.1.0%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+
 [update.curseforge]
 project-id = 388800
 file-id = 6794589

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5885/735/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar"
 hash-format = "sha1"
 hash = "9edfc7861277ff661141304dc8216f83eacdd9af"
+
 [update.curseforge]
 project-id = 634062
 file-id = 5885735

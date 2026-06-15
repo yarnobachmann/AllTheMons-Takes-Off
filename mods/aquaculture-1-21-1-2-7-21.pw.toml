@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7901/588/Aquaculture-1.21.1-2.7.21.jar"
 hash-format = "sha1"
 hash = "93c2043c6a5cfbfbfba93321d044bc61d8a6547b"
+
 [update.curseforge]
 project-id = 60028
 file-id = 7901588

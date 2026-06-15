@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7966/196/farmingforblockheads-neoforge-1.21.1-21.1.13.jar"
 hash-format = "sha1"
 hash = "0bd50d760621bfeaa4b1d649ae59eaa4fd82be63"
+
 [update.curseforge]
 project-id = 261924
 file-id = 7966196

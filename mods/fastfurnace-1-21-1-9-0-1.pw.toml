@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6751/551/FastFurnace-1.21.1-9.0.1.jar"
 hash-format = "sha1"
 hash = "acdcdc7c61b49b3b04490fce9843dcf8b531dfc3"
+
 [update.curseforge]
 project-id = 299540
 file-id = 6751551

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7197/218/torchmaster-neoforge-1.21.1-21.1.9.jar"
 hash-format = "sha1"
 hash = "3f565ecc8560eba3ae3e15ff6542a3025d7377a2"
+
 [update.curseforge]
 project-id = 254268
 file-id = 7197218

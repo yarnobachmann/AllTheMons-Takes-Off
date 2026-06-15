@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7150/870/DungeonsArise-1.21.1-2.1.68-release.jar"
 hash-format = "sha1"
 hash = "c651339154da7b9e9cf47a80fdef22c4d59cad5c"
+
 [update.curseforge]
 project-id = 442508
 file-id = 7150870

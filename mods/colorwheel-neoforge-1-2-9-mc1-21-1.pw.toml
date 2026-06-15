@@ -1,0 +1,12 @@
+name = "Colorwheel"
+filename = "colorwheel-neoforge-1.2.9+mc1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8206/645/colorwheel-neoforge-1.2.9%2bmc1.21.1.jar"
+hash-format = "sha1"
+hash = "33f3f4976755d0b315d3853f2e2aad38e11825c2"
+
+[update.curseforge]
+project-id = 1254143
+file-id = 8206645

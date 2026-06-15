@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7935/618/silent-lib-1.21.1-neoforge-10.6.0.jar"
 hash-format = "sha1"
 hash = "991055113a165bef7d0b620c091165d55f7dbb24"
+
 [update.curseforge]
 project-id = 242998
 file-id = 7935618

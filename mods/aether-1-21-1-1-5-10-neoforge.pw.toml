@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7043/502/aether-1.21.1-1.5.10-neoforge.jar"
 hash-format = "sha1"
 hash = "5b5592989c6d2aabf80a9f100e18c258813db497"
+
 [update.curseforge]
 project-id = 255308
 file-id = 7043502

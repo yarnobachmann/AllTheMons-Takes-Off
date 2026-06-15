@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6830/399/colorfulhearts-neoforge-1.21.1-10.5.9.jar"
 hash-format = "sha1"
 hash = "ec63110d126cf95dabe220116bd394e701265de7"
+
 [update.curseforge]
 project-id = 854213
 file-id = 6830399

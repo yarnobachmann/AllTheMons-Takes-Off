@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8041/234/lootr-neoforge-1.21.1-1.11.37.120.jar"
 hash-format = "sha1"
 hash = "a8acaf64fb3991526bfe7456189ccde247334265"
+
 [update.curseforge]
 project-id = 361276
 file-id = 8041234

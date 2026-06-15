@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6296/775/valhelsia_core-neoforge-1.21.1-1.1.5.jar"
 hash-format = "sha1"
 hash = "e7498e89bd7347c6d0f4411f55bd312490dfe814"
+
 [update.curseforge]
 project-id = 416935
 file-id = 6296775

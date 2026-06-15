@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5610/814/cosmeticarmorreworked-1.21.1-v1-neoforge.jar"
 hash-format = "sha1"
 hash = "5f1e699cd0888b857ec63f01adaeb3571848bfea"
+
 [update.curseforge]
 project-id = 237307
 file-id = 5610814

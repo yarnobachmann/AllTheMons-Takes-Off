@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7687/594/rechiseled-1.2.4-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "bd8ac0c82a04179c649f40b3333ff0648f444086"
+
 [update.curseforge]
 project-id = 558998
 file-id = 7687594

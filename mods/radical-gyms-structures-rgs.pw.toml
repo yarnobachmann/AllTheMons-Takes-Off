@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7330/950/Radical%20Gyms%20%20Structures%20-%20RGS.jar"
 hash-format = "sha1"
 hash = "4466492a22f2370d7b47b8e0ea6aa12977099595"
+
 [update.curseforge]
 project-id = 1402174
 file-id = 7330950

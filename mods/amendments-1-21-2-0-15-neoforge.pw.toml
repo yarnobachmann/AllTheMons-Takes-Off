@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7461/27/amendments-1.21-2.0.15-neoforge.jar"
 hash-format = "sha1"
 hash = "00056f29646f3bf86116b281c2362c0dabdb4533"
+
 [update.curseforge]
 project-id = 896746
 file-id = 7461027

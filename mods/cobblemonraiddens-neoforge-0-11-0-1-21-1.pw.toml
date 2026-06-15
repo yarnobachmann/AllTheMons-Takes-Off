@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8072/498/cobblemonraiddens-neoforge-0.11.0%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "1a4da729e44308e461e425d770de8188aa411ae3"
+
 [update.curseforge]
 project-id = 1349231
 file-id = 8072498

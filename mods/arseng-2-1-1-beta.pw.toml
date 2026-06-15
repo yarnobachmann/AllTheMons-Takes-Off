@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6203/425/arseng-2.1.1-beta.jar"
 hash-format = "sha1"
 hash = "e46e7cf5c4fc5f48d1b1ea025eb59c484811b2c6"
+
 [update.curseforge]
 project-id = 905641
 file-id = 6203425

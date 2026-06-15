@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5517/177/heyberryshutup-1.21.0-2.0.4.jar"
 hash-format = "sha1"
 hash = "a897b4ac33d0fc5a2a533d56381c272f1e49520b"
+
 [update.curseforge]
 project-id = 634227
 file-id = 5517177

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6948/833/NaturesAura-41.9.jar"
 hash-format = "sha1"
 hash = "466fba5d58430792f8564d4466ed486e28795c83"
+
 [update.curseforge]
 project-id = 306626
 file-id = 6948833

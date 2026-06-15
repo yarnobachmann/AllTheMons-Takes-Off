@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5550/187/itemcollectors-1.1.10-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "2019bdbb89da0f61ce40448164bdd9a5b13cb2d7"
+
 [update.curseforge]
 project-id = 395620
 file-id = 5550187

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7583/800/berrypouch-neoforge-1.21.1-0.5.4-beta.jar"
 hash-format = "sha1"
 hash = "7e00885e79065c7c7a7f923e504c646d6ac020a7"
+
 [update.curseforge]
 project-id = 1246510
 file-id = 7583800

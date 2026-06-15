@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7771/524/modonomicon-1.21.1-neoforge-1.120.1.jar"
 hash-format = "sha1"
 hash = "e127c8ba3d194678e11a00af6422394a7ed476b1"
+
 [update.curseforge]
 project-id = 538392
 file-id = 7771524

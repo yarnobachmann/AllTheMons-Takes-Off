@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7055/149/SmartBrainLib-neoforge-1.21.1-1.16.11.jar"
 hash-format = "sha1"
 hash = "0310135a01eeceefbc7f1ab017498a65f3ad6836"
+
 [update.curseforge]
 project-id = 661293
 file-id = 7055149

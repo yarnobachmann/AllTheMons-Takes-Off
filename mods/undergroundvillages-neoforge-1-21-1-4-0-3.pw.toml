@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6722/723/UndergroundVillages-neoforge-1.21.1-4.0.3.jar"
 hash-format = "sha1"
 hash = "7eb055cfadf940882aac57dcc4a7162774a53a95"
+
 [update.curseforge]
 project-id = 606989
 file-id = 6722723

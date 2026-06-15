@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7974/820/sophisticatedstoragecreateintegration-1.21.1-0.1.17.132.jar"
 hash-format = "sha1"
 hash = "45a0318e8e49e7f3aab213df5cc32b3e7e128b6c"
+
 [update.curseforge]
 project-id = 1226755
 file-id = 7974820

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7452/53/smithingtemplateviewer-1.0.4.jar"
 hash-format = "sha1"
 hash = "4fea33926fafbd59f7434d1e4e64938ddee5d5db"
+
 [update.curseforge]
 project-id = 1133580
 file-id = 7452053

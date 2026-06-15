@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7281/427/CodeChickenLib-1.21.1-4.6.1.526.jar"
 hash-format = "sha1"
 hash = "6a278b5a2788c2fee7ae52d17f24187332d436b2"
+
 [update.curseforge]
 project-id = 242818
 file-id = 7281427

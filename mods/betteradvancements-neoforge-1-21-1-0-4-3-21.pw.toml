@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5850/587/BetterAdvancements-NeoForge-1.21.1-0.4.3.21.jar"
 hash-format = "sha1"
 hash = "870521cfaa1a4cb6c830e2409e8b9e4cf179aff2"
+
 [update.curseforge]
 project-id = 272515
 file-id = 5850587

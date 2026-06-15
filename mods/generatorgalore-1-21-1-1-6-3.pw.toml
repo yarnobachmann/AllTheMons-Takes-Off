@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6799/851/generatorgalore-1.21.1-1.6.3.jar"
 hash-format = "sha1"
 hash = "31418972d718190c6f13d8a34f434b266af317e0"
+
 [update.curseforge]
 project-id = 691049
 file-id = 6799851

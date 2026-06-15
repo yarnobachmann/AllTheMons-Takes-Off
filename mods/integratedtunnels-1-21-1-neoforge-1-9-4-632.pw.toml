@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8057/867/integratedtunnels-1.21.1-neoforge-1.9.4-632.jar"
 hash-format = "sha1"
 hash = "9c33c904c2fec9f1a049f600b7d10218b8f13da5"
+
 [update.curseforge]
 project-id = 251389
 file-id = 8057867

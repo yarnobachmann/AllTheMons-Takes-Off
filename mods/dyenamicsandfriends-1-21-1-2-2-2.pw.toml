@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7204/108/dyenamicsandfriends-1.21.1-2.2.2.jar"
 hash-format = "sha1"
 hash = "cc43cabf3d36c33d51bc923f21f819766d3ce75d"
+
 [update.curseforge]
 project-id = 709617
 file-id = 7204108

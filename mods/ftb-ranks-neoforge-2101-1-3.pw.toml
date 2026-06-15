@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6431/744/ftb-ranks-neoforge-2101.1.3.jar"
 hash-format = "sha1"
 hash = "07fdfa3a75c3481770ce0118090a347d89e3a560"
+
 [update.curseforge]
 project-id = 314905
 file-id = 6431744

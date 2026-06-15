@@ -1,0 +1,12 @@
+name = "Epitaphs"
+filename = "epitaphs-2.0.3_neoforge_1.21.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8186/69/epitaphs-2.0.3_neoforge_1.21.1.jar"
+hash-format = "sha1"
+hash = "94580bcbc06dba4419a0377ece21cf8a2271ecd6"
+
+[update.curseforge]
+project-id = 1325482
+file-id = 8186069

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6697/124/observable-5.4.4.jar"
 hash-format = "sha1"
 hash = "e17417eee213aac8291ff8bad1c6a5f710636b72"
+
 [update.curseforge]
 project-id = 509575
 file-id = 6697124

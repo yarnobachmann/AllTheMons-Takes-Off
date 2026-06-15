@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7394/335/crafting_on_a_stick-1.21.0.4.jar"
 hash-format = "sha1"
 hash = "9ea4bcce2d468b13e20871789dde525d49454076"
+
 [update.curseforge]
 project-id = 577850
 file-id = 7394335

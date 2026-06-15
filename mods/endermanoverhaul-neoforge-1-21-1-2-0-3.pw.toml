@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7661/859/endermanoverhaul-neoforge-1.21.1-2.0.3.jar"
 hash-format = "sha1"
 hash = "f71aa503738f2e23a8d939b7ea9f96f2fe203f11"
+
 [update.curseforge]
 project-id = 574409
 file-id = 7661859

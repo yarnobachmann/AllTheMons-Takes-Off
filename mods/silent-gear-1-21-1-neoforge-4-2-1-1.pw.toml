@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8095/210/silent-gear-1.21.1-neoforge-4.2.1.1.jar"
 hash-format = "sha1"
 hash = "928064b09748d6e963077c114d65f5ce79aff581"
+
 [update.curseforge]
 project-id = 297039
 file-id = 8095210

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5813/117/chipped-neoforge-1.21.1-4.0.2.jar"
 hash-format = "sha1"
 hash = "6f5395f58139802edfde7cb9170279f92f291971"
+
 [update.curseforge]
 project-id = 456956
 file-id = 5813117

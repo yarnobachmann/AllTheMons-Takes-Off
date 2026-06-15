@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7027/323/appliedenergistics2-19.2.17.jar"
 hash-format = "sha1"
 hash = "49c18d6a4af487957d7e5a6ad5dcbf71090b8e14"
+
 [update.curseforge]
 project-id = 223794
 file-id = 7027323

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5973/188/resourcefullib-neoforge-1.21-3.0.12.jar"
 hash-format = "sha1"
 hash = "24389c8e48ff0e8594e4686b750c494c66a5f8df"
+
 [update.curseforge]
 project-id = 570073
 file-id = 5973188

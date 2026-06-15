@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6071/684/mekanismcovers-1.3-BETA%2b1.21.jar"
 hash-format = "sha1"
 hash = "1cfb68fcc9b833af7b992024943dc1e8d45799af"
+
 [update.curseforge]
 project-id = 1119874
 file-id = 6071684

@@ -1,0 +1,12 @@
+name = "Ender IO"
+filename = "enderio-8.2.11-beta.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8192/838/enderio-8.2.11-beta.jar"
+hash-format = "sha1"
+hash = "87b7218eed2e2f325ddcb8d3ce94a67aabaa17ca"
+
+[update.curseforge]
+project-id = 64578
+file-id = 8192838

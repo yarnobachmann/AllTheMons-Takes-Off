@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7084/444/lmft-1.1.1%2b1.21.9-neoforge.jar"
 hash-format = "sha1"
 hash = "492d597ca216f9d099be112e77a9a5c7ed138770"
+
 [update.curseforge]
 project-id = 656346
 file-id = 7084444

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7774/60/complete-cobblemon-collection-myths-and-legends-compat-2.0.1%20(1).jar"
 hash-format = "sha1"
 hash = "7c9072cd5c3b63399531f369d388ba5d81a50e03"
+
 [update.curseforge]
 project-id = 1447622
 file-id = 7774060

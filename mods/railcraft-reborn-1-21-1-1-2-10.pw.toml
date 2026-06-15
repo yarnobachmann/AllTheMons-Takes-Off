@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7393/678/railcraft-reborn-1.21.1-1.2.10.jar"
 hash-format = "sha1"
 hash = "e6bad517eed5d60923b2a0b28d9f7f83d7299f10"
+
 [update.curseforge]
 project-id = 901491
 file-id = 7393678

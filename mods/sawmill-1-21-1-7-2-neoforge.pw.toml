@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7130/272/sawmill-1.21-1.7.2-neoforge.jar"
 hash-format = "sha1"
 hash = "877389e2bb3b462b8180d4fc998799adbce6ada1"
+
 [update.curseforge]
 project-id = 964817
 file-id = 7130272

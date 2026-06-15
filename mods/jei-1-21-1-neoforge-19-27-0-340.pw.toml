@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7420/587/jei-1.21.1-neoforge-19.27.0.340.jar"
 hash-format = "sha1"
 hash = "27d0d85e7e32e926fc3664ab6815df5cdabb7941"
+
 [update.curseforge]
 project-id = 238222
 file-id = 7420587

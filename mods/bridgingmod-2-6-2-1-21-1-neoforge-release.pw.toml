@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6269/728/BridgingMod-2.6.2%2b1.21.1.neoforge-release.jar"
 hash-format = "sha1"
 hash = "18c4fdadf7d1b4632ae0e0914e4075847306b52f"
+
 [update.curseforge]
 project-id = 533942
 file-id = 6269728

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7642/730/ars_technica-1.21.1-2.7.6.jar"
 hash-format = "sha1"
 hash = "adb2641d538375f6eff6a22f0196bb330ab0b171"
+
 [update.curseforge]
 project-id = 1096161
 file-id = 7642730

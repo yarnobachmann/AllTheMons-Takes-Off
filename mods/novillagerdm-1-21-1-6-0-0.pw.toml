@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5812/197/novillagerdm-1.21.1-6.0.0.jar"
 hash-format = "sha1"
 hash = "284694712ae9c5a17dfff4c0830048574996a229"
+
 [update.curseforge]
 project-id = 451682
 file-id = 5812197

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6368/976/Controlling-neoforge-1.21.1-19.0.5.jar"
 hash-format = "sha1"
 hash = "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+
 [update.curseforge]
 project-id = 250398
 file-id = 6368976

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7344/729/cryonicconfig-neoforge-1.0.0%2bmc1.21.11.jar"
 hash-format = "sha1"
 hash = "45b7240ad5cd561511ae3f80eea4cbfc110dae70"
+
 [update.curseforge]
 project-id = 1208896
 file-id = 7344729

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5958/721/blueflame-1.21.1-1.1.1.jar"
 hash-format = "sha1"
 hash = "0e78defafd6cf08759c656a54f8a33315e3ab924"
+
 [update.curseforge]
 project-id = 656551
 file-id = 5958721

@@ -1,0 +1,12 @@
+name = "Enchantment Descriptions"
+filename = "enchdesc-neoforge-1.21.1-21.1.10.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8240/827/enchdesc-neoforge-1.21.1-21.1.10.jar"
+hash-format = "sha1"
+hash = "9a06a20881c5feb730aa249666cac2871ca99fda"
+
+[update.curseforge]
+project-id = 250419
+file-id = 8240827

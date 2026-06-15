@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7965/880/SimpleBackups-1.21-4.0.30.jar"
 hash-format = "sha1"
 hash = "fd9c1374463d2802b119fb5865e43f280573cb4c"
+
 [update.curseforge]
 project-id = 583228
 file-id = 7965880

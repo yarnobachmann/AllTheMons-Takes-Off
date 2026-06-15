@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7875/426/artifacts-neoforge-13.2.1.jar"
 hash-format = "sha1"
 hash = "3fe4d52cc0b11d91c75005030e83e3f675e62383"
+
 [update.curseforge]
 project-id = 312353
 file-id = 7875426

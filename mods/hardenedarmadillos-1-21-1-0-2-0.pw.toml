@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5939/448/hardenedarmadillos-1.21.1-0.2.0.jar"
 hash-format = "sha1"
 hash = "1c9a37d6fe172580af5142c66b9157d21aa6c5f7"
+
 [update.curseforge]
 project-id = 1001266
 file-id = 5939448

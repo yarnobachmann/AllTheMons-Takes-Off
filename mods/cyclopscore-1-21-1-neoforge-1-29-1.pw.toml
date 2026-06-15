@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/8006/281/cyclopscore-1.21.1-neoforge-1.29.1.jar"
 hash-format = "sha1"
 hash = "0e5d8e03b6b915679ca400235ffaffa913935a81"
+
 [update.curseforge]
 project-id = 232758
 file-id = 8006281

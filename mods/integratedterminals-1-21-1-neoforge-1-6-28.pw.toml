@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7738/429/integratedterminals-1.21.1-neoforge-1.6.28.jar"
 hash-format = "sha1"
 hash = "ba54de74b9e40630b40343c6e29625af0977c47f"
+
 [update.curseforge]
 project-id = 295910
 file-id = 7738429

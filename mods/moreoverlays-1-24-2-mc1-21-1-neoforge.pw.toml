@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6981/252/moreoverlays-1.24.2-mc1.21.1-neoforge.jar"
 hash-format = "sha1"
 hash = "21e8bd61c5e146a9574266015d3f64621c2d9e18"
+
 [update.curseforge]
 project-id = 391382
 file-id = 6981252

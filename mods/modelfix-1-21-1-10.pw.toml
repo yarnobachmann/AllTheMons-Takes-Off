@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5591/286/modelfix-1.21-1.10.jar"
 hash-format = "sha1"
 hash = "9608b1bff92e075ad8c2feb07f7ef095f6887117"
+
 [update.curseforge]
 project-id = 676136
 file-id = 5591286

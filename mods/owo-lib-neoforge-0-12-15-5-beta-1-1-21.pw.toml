@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6785/734/owo-lib-neoforge-0.12.15.5-beta.1%2b1.21.jar"
 hash-format = "sha1"
 hash = "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+
 [update.curseforge]
 project-id = 532610
 file-id = 6785734

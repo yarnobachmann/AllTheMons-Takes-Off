@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7727/898/ae2jeiintegration-1.2.1.jar"
 hash-format = "sha1"
 hash = "e99898b3e9c32bf6ac757e7ad50247746622cdfc"
+
 [update.curseforge]
 project-id = 1074338
 file-id = 7727898

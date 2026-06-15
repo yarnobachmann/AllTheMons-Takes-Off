@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7783/425/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar"
 hash-format = "sha1"
 hash = "84802fbe1645de8caf61ccb07db6cf451e614f68"
+
 [update.curseforge]
 project-id = 454372
 file-id = 7783425

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7389/814/player-animation-lib-forge-2.0.4%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+
 [update.curseforge]
 project-id = 658587
 file-id = 7389814

@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7430/73/tfmg-1.2.0.jar"
 hash-format = "sha1"
 hash = "b520f3687f60a69eb265ff5b9a16759b9e124103"
+
 [update.curseforge]
 project-id = 693815
 file-id = 7430073

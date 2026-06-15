@@ -1,0 +1,12 @@
+name = "Not Enough Glyphs"
+filename = "not_enough_glyphs-1.21.1-4.5.1.jar"
+side = "both"
+
+[download]
+url = "https://edge.forgecdn.net/files/8230/919/not_enough_glyphs-1.21.1-4.5.1.jar"
+hash-format = "sha1"
+hash = "9540858c34c5858b63090b8afb9dacb40318f45d"
+
+[update.curseforge]
+project-id = 1023517
+file-id = 8230919

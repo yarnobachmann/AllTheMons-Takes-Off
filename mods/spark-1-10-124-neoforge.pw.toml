@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6225/208/spark-1.10.124-neoforge.jar"
 hash-format = "sha1"
 hash = "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+
 [update.curseforge]
 project-id = 361579
 file-id = 6225208

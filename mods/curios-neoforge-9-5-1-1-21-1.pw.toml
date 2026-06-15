@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6529/130/curios-neoforge-9.5.1%2b1.21.1.jar"
 hash-format = "sha1"
 hash = "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+
 [update.curseforge]
 project-id = 309927
 file-id = 6529130

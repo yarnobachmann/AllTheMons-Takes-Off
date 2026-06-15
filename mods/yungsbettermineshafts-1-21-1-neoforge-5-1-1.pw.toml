@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5812/193/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar"
 hash-format = "sha1"
 hash = "6a14e1d8201f068ca87ef8333e471c5378955906"
+
 [update.curseforge]
 project-id = 1015096
 file-id = 5812193

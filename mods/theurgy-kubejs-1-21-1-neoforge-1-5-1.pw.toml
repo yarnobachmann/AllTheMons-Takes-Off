@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7128/751/theurgy_kubejs-1.21.1-neoforge-1.5.1.jar"
 hash-format = "sha1"
 hash = "f65ff740fd866275c1e9b3e10c7bee895025bd5e"
+
 [update.curseforge]
 project-id = 963206
 file-id = 7128751

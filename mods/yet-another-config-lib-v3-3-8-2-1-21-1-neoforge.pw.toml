@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7437/845/yet_another_config_lib_v3-3.8.2%2b1.21.1-neoforge.jar"
 hash-format = "sha1"
 hash = "fe270c9f6e0a8142cf316944087f5109cef08bbb"
+
 [update.curseforge]
 project-id = 667299
 file-id = 7437845

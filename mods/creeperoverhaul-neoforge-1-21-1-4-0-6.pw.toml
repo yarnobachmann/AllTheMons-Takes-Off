@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/6051/279/CreeperOverhaul-neoforge-1.21.1-4.0.6.jar"
 hash-format = "sha1"
 hash = "5a07cc032df790e7d110ad3dedb7a76253ffd565"
+
 [update.curseforge]
 project-id = 561625
 file-id = 6051279

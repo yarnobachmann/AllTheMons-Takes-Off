@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7441/306/industrial-foregoing-souls-1.21.1-1.10.7.jar"
 hash-format = "sha1"
 hash = "ff5def0fd52ac755103a4871aafcf0b80f5a1a51"
+
 [update.curseforge]
 project-id = 904394
 file-id = 7441306

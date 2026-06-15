@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7078/265/Nullscape_1.21.x_v1.2.14.jar"
 hash-format = "sha1"
 hash = "ae8e1cbd5de6cf6f450bb44cd69cd284dad690dd"
+
 [update.curseforge]
 project-id = 570354
 file-id = 7078265

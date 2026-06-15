@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/5439/938/jumpboat-1.21.0-1.0.5.jar"
 hash-format = "sha1"
 hash = "8fa562264f3ffd030773b2744ff6b42c52080ce6"
+
 [update.curseforge]
 project-id = 542110
 file-id = 5439938

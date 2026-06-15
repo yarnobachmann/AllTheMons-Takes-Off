@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7148/568/%5b1.21.1%5d%20SecurityCraft%20v1.10.1.jar"
 hash-format = "sha1"
 hash = "692f81f4fdcd0d1298db96a9582eea41baeae252"
+
 [update.curseforge]
 project-id = 64760
 file-id = 7148568

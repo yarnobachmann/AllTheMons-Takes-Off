@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7963/363/create-1.21.1-6.0.10.jar"
 hash-format = "sha1"
 hash = "0e97e49837bed766e6f28a4c95b04885d6acc353"
+
 [update.curseforge]
 project-id = 328085
 file-id = 7963363

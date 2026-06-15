@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7140/477/polylib-2100.1.0-build.183-neoforge.jar"
 hash-format = "sha1"
 hash = "2e77cd8a795c3171d8327e6b1f1b6413565c8da1"
+
 [update.curseforge]
 project-id = 576589
 file-id = 7140477

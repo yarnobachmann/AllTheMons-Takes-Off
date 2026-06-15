@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7430/7/escalated-1.2.1-create.6.0.8-mc.1.21.1-neoforge.jar"
 hash-format = "sha1"
 hash = "c0c2a66ecf4204972920bfd4d62314aea83dc64e"
+
 [update.curseforge]
 project-id = 1260145
 file-id = 7430007

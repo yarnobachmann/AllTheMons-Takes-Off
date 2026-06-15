@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7192/82/create_aquatic_ambitions-1.21.1-2.0.2.jar"
 hash-format = "sha1"
 hash = "39945d25188f3cb8feb74d09b78d7f7f7a74aaa7"
+
 [update.curseforge]
 project-id = 1005676
 file-id = 7192082

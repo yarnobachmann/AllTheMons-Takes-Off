@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7952/621/megacells-4.11.0.jar"
 hash-format = "sha1"
 hash = "f0b1a44bf30c8a9e14e2fa7fce37360191aa55e8"
+
 [update.curseforge]
 project-id = 622112
 file-id = 7952621

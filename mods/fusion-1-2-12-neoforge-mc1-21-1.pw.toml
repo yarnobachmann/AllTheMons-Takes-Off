@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7471/474/fusion-1.2.12-neoforge-mc1.21.1.jar"
 hash-format = "sha1"
 hash = "d86f641b67d4b01d99da8424ba2a3edc0e6690b6"
+
 [update.curseforge]
 project-id = 854949
 file-id = 7471474

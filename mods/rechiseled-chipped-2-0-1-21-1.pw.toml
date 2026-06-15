@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7524/185/rechiseled_chipped-2.0-1.21.1.jar"
 hash-format = "sha1"
 hash = "bed4eb5415d67251ba6b0eca5d56eb0f5963a265"
+
 [update.curseforge]
 project-id = 1007578
 file-id = 7524185

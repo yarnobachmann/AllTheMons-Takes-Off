@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7974/611/monolib-neoforge-1.21.1-4.0.2.jar"
 hash-format = "sha1"
 hash = "63b094775c12e15cfd2822ee135035d3e0303d9c"
+
 [update.curseforge]
 project-id = 968432
 file-id = 7974611

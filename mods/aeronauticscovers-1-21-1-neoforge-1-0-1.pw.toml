@@ -6,6 +6,7 @@ side = "both"
 url = "https://edge.forgecdn.net/files/7971/997/aeronauticscovers-1.21.1-NeoForge-1.0.1.jar"
 hash-format = "sha1"
 hash = "c4404a98d85c75e5e80ace462c3ed1bdf0b1c93e"
+
 [update.curseforge]
 project-id = 1518758
 file-id = 7971997
