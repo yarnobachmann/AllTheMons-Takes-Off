@@ -9021,9 +9021,9 @@ hash = "74a113d8a9691cf330da9b96231ab2e8c6ca49a4441100729744cab409ed90db"
 metafile = true
 
 [[files]]
-file = "mods/sable-neoforge-1-21-1-1-1-3.pw.toml"
-hash = "e84f63f1c9cb86f4e3fedf2d860a1a73a42096a63609f6b472a06555d8d55672"
-metafile = true
+file = "mods/sable-neoforge-1.21.1-1.2.2.jar"
+hash = "15fb660a0d368204b37f3967bfcc48137397b7174ca2945c5635cc4539c755f8"
+metafile = false
 
 [[files]]
 file = "mods/sawmill-1-21-1-7-2-neoforge.pw.toml"

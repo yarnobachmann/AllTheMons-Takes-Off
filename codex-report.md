@@ -1,7 +1,7 @@
 # External metadata matching report
 
 - CurseForge matched jars: 411
-- Local/custom bundled jars: 6
+- Local/custom bundled jars: 7
 
 ## Local/custom bundled jars
 
@@ -11,3 +11,4 @@
 - `CNB-1.21.1-neoforge-1.7.17.jar`
 - `pipezlagfix-1.21.1-1.1.0.jar`
 - `ars_janky_me_source_jar_compat-0.1.0.jar`
+- `sable-neoforge-1.21.1-1.2.2.jar`
