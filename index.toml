@@ -18006,6 +18006,11 @@ hash = "ed31f5456b7338ba16a3787fa99654dee497cf78ffd86e33b3c9e8a755381fab"
 metafile = true
 
 [[files]]
+file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
+hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
+metafile = false
+
+[[files]]
 file = "mods/framedblocks-10-6-0.pw.toml"
 hash = "0a01e501d48d86a6a218b9171c3da834c3f794c5fe59924f373b3bafc335d3aa"
 metafile = true
