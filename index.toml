@@ -17831,6 +17831,11 @@ hash = "efab7bc931f79d4b92f851ee5a523fb0cfdd68a022620027c5ae65f965be3159"
 metafile = true
 
 [[files]]
+file = "mods/DistantHorizons-3.0.3-b-1.21.1-fabric-neoforge.jar"
+hash = "daba497eaaefe535f04f2ee6f6be11485d3d5b46676fbf0a792d26e178ef4785"
+metafile = false
+
+[[files]]
 file = "mods/draconic-evolution-1-21-1-3-1-4-632.pw.toml"
 hash = "51dbf7618c2f58c187ed2564273191e2581dd202acd11ef60c014c7f5c1a4b66"
 metafile = true
@@ -18004,11 +18009,6 @@ metafile = true
 file = "mods/forbidden-arcanus-2-6-1.pw.toml"
 hash = "ed31f5456b7338ba16a3787fa99654dee497cf78ffd86e33b3c9e8a755381fab"
 metafile = true
-
-[[files]]
-file = "mods/forgified-fabric-api-0.116.7+2.2.4+1.21.1.jar"
-hash = "68abf2864e957df26ac0cc3bd5352ee67880e052b47a80f22f28556c1179f18d"
-metafile = false
 
 [[files]]
 file = "mods/framedblocks-10-6-0.pw.toml"
@@ -19094,11 +19094,6 @@ metafile = true
 file = "mods/valhelsia-core-neoforge-1-21-1-1-1-5.pw.toml"
 hash = "8c255b79dc2f8d0896cc0cced4abdc55024dfbefa1dd6e29463911c4bede491b"
 metafile = true
-
-[[files]]
-file = "mods/voxy-0.2.10-alpha.jar"
-hash = "d0a8c1b1a3a72725a677cf33e6ccd1a5043345dd899af464f6eddc2abf4de920"
-metafile = false
 
 [[files]]
 file = "mods/waystones-neoforge-1-21-1-21-1-34.pw.toml"
