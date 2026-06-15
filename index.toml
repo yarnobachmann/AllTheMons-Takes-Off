@@ -10586,8 +10586,8 @@ hash = "74a113d8a9691cf330da9b96231ab2e8c6ca49a4441100729744cab409ed90db"
 metafile = true
 
 [[files]]
-file = "mods/sable-neoforge-1.21.1-1.2.2.jar"
-hash = "5d425896a6920c171abf644231306e5d86207038b79314aff7c5f33b0042ab92"
+file = "mods/sable-neoforge-1.21.1-2.0.1.jar"
+hash = "f0513d490dc099a7271b5e29b5040a1ff556219dee1007df3fe29355fd7ff68d"
 metafile = false
 
 [[files]]
